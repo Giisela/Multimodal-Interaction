@@ -1,0 +1,1606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-06</Date>
+			<Time>17:53:23.4709622+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Open.xef</Clip>
+			<StartFrame>3240</StartFrame>
+			<EndFrame>4873</EndFrame>
+			<ID>96107991-4743-4f1d-9a68-7e1565fbafe6</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>4863</CurrentFrameStart>
+			<CurrentFrameEnd>4864</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="3343">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3344">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3345">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3346">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3347">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3348">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3349">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3350">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3351">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3352">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3353">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3354">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3355">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3356">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3357">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3358">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3359">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3360">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3361">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3362">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3363">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3364">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3365">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3366">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3367">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3368">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3369">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3370">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3371">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3372">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3373">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3374">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3375">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3376">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3377">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3378">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3379">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3380">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3381">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3382">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3457">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3458">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3459">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3460">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3461">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3462">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3463">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3464">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3465">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3466">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3467">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3468">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3469">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3470">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3471">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3472">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3473">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3474">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3475">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3476">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3477">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3478">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3479">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3480">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3481">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3482">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3483">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3484">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3485">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3486">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3487">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3560">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3561">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3562">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3563">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3564">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3565">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3566">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3567">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3568">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3569">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3570">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3571">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3572">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3573">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3574">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3575">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3576">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3577">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3578">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3579">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3580">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3581">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3582">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3583">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3584">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3585">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3586">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3587">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3588">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3589">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3590">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3591">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3592">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3593">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3594">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3595">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3596">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3597">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3598">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3599">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3600">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3601">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3602">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3603">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3604">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3605">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3606">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3673">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3674">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3675">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3676">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3677">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3678">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3679">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3680">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3681">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3682">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3683">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3684">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3685">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3686">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3687">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3688">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3689">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3690">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3691">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3692">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3693">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3694">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3695">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3696">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3697">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3698">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3699">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3700">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3701">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3702">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3703">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3704">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3705">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3706">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3707">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3708">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3709">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3710">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3764">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3765">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3766">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3767">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3768">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3769">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3770">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3771">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3772">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3773">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3774">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3775">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3776">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3777">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3778">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3779">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3780">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3781">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3782">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3783">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3784">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3785">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3786">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3787">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3788">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3789">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3790">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3791">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3792">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3793">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3794">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3795">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3796">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3797">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3798">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3855">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3856">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3857">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3858">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3859">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3860">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3861">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3862">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3863">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3864">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3865">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3866">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3867">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3868">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3869">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3870">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3871">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3872">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3873">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3874">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3875">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3876">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3877">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3878">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3879">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3880">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3881">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3882">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3883">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3884">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3885">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3886">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3887">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3888">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3889">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3890">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3891">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3892">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3893">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3980">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3981">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3982">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3983">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3984">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3985">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3986">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3987">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3988">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3989">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3990">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3991">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3992">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3993">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3994">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3995">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3996">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3997">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3998">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="3999">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4000">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4001">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4002">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4003">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4004">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4005">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4006">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4007">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4008">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4009">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4010">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4011">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4012">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4013">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4014">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4015">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4016">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4017">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4018">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4019">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4088">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4089">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4090">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4091">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4092">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4093">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4094">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4095">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4096">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4097">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4098">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4099">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4100">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4101">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4102">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4103">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4104">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4105">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4106">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4107">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4108">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4109">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4110">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4111">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4112">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4113">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4114">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4115">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4116">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4117">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4118">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4119">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4120">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4121">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4122">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4123">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4124">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4125">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4126">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4127">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4206">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4207">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4208">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4209">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4210">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4211">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4212">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4213">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4214">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4215">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4216">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4217">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4218">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4219">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4220">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4221">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4222">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4223">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4224">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4225">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4226">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4227">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4228">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4229">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4230">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4231">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4232">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4233">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4234">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4235">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4236">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4237">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4238">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4239">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4240">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4241">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4295">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4296">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4297">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4298">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4299">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4300">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4301">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4302">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4303">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4304">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4305">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4306">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4307">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4308">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4309">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4310">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4311">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4312">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4313">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4314">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4315">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4316">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4317">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4318">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4319">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4320">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4321">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4322">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4323">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4324">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4325">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4326">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4327">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4328">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4383">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4384">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4385">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4386">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4387">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4388">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4389">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4390">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4391">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4392">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4393">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4394">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4395">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4396">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4397">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4398">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4399">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4400">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4401">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4402">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4403">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4404">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4405">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4406">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4407">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4408">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4409">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4453">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4454">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4455">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4456">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4457">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4458">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4459">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4460">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4461">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4462">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4463">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4464">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4465">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4466">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4467">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4468">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4469">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4470">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4471">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4472">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4473">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4474">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4517">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4518">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4519">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4520">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4521">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4522">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4523">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4524">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4525">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4526">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4527">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4528">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4529">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4530">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4531">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4532">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4533">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4534">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4588">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4589">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4590">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4591">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4592">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4593">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4594">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4595">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4596">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4597">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4598">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4599">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4600">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4601">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4602">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4603">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4604">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4605">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4606">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4607">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4649">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4650">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4651">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4652">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4653">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4654">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4655">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4656">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4657">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4658">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4659">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4660">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4661">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4662">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4663">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4664">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4665">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4666">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4667">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4668">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4669">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4670">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4671">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4672">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4673">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4674">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4675">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4676">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4677">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4678">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4679">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4727">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4728">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4729">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4730">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4731">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4732">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4733">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4734">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4735">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4736">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4737">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4738">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4739">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4740">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4741">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4742">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4743">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4744">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4745">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4746">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4747">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4748">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4749">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4750">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4751">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4752">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+			<Items Frame="4753">
+				<Items xsi:type="BoolAttribute" Name="Open" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

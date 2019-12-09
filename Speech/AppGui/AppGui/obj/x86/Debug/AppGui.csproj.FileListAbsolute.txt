@@ -1,0 +1,68 @@
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.TTSEngineLib.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.ResolveComReference.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\App.g.cs
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.lref
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe.config
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.pdb
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\mmisharp.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\mmisharp.pdb
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.baml
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.g.resources
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.Properties.Resources.resources
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.CopyComplete
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.exe
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.pdb
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe.config
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.pdb
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\mmisharp.pdb
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.TTSEngineLib.dll
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.ResolveComReference.cache
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\App.g.cs
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.cache
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.lref
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.baml
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.g.resources
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.Properties.Resources.resources
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.CopyComplete
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.exe
+C:\Users\Gisela Pinto\Documents\IM\Trabalho1\im_2019_2020\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.pdb
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe.config
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.exe
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\AppGui.pdb
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\mmisharp.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\mmisharp.pdb
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\Interop.TTSEngineLib.dll
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.ResolveComReference.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\App.g.cs
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui_MarkupCompile.lref
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\MainWindow.baml
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.g.resources
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.Properties.Resources.resources
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.csproj.CopyComplete
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.exe
+C:\Users\cfr\OneDrive - Universidade de Aveiro\Documentos\UA\5ano1semestre\IM\a74e9472\Basis4Assignment2\AppGui\AppGui\obj\x86\Debug\AppGui.pdb

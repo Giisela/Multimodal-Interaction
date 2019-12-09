@@ -1,0 +1,988 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-06</Date>
+			<Time>18:46:37.7044056+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>ZoomIn.xef</Clip>
+			<StartFrame>13102</StartFrame>
+			<EndFrame>14457</EndFrame>
+			<ID>3551c1ce-f386-42b2-9134-31a19f2761ef</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>14438</CurrentFrameStart>
+			<CurrentFrameEnd>14439</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="13191">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13192">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13193">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13194">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13195">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13196">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13197">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13198">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13199">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13200">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13201">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13202">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13203">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13204">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13245">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13246">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13247">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13248">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13249">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13250">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13251">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13252">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13253">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13254">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13255">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13256">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13257">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13258">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13259">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13260">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13261">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13312">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13313">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13314">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13315">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13316">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13317">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13318">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13319">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13320">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13321">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13322">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13323">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13324">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13325">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13326">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13327">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13328">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13329">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13330">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13384">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13385">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13386">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13387">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13388">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13389">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13390">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13391">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13392">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13393">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13394">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13395">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13396">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13397">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13398">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13399">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13452">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13453">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13454">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13455">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13456">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13457">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13458">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13459">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13460">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13461">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13462">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13463">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13464">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13465">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13518">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13519">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13520">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13521">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13522">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13523">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13524">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13525">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13526">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13527">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13528">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13529">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13530">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13531">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13532">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13533">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13534">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13535">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13585">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13586">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13587">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13588">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13589">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13590">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13591">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13592">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13593">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13594">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13595">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13596">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13597">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13598">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13599">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13600">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13601">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13639">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13640">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13641">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13642">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13643">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13644">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13645">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13646">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13647">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13648">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13649">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13650">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13651">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13652">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13701">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13702">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13703">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13704">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13705">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13706">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13707">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13708">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13709">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13710">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13711">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13712">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13713">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13714">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13715">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13716">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13761">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13762">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13763">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13764">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13765">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13766">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13767">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13768">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13769">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13770">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13771">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13772">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13773">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13774">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13775">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13819">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13820">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13821">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13822">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13823">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13824">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13825">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13826">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13827">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13828">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13829">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13830">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13831">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13832">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13833">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13834">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13835">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13836">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13871">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13872">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13873">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13874">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13875">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13876">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13877">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13878">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13879">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13880">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13881">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13882">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13883">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13884">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13885">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13886">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13933">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13934">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13935">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13936">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13937">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13938">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13939">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13940">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13941">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13942">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13943">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13944">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13945">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13946">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13947">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13948">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13949">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13994">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13995">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13996">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13997">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13998">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="13999">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14000">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14001">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14002">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14003">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14004">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14005">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14006">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14007">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14050">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14051">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14052">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14053">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14054">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14055">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14056">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14057">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14058">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14059">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14060">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14061">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14062">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14063">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14064">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14065">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14106">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14107">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14108">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14109">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14110">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14111">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14112">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14113">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14114">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14115">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14116">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14117">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14118">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14119">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14120">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14121">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14122">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14123">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14172">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14173">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14174">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14175">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14176">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14177">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14178">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14179">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14180">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14181">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14182">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14183">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14184">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14185">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14186">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14187">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14229">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14230">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14231">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14232">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14233">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14234">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14235">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14236">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14237">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14238">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14239">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14240">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14241">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14242">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14279">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14280">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14281">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14282">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14283">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14284">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14285">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14286">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14287">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14288">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14289">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14290">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14291">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14292">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14293">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14294">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14329">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14330">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14331">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14332">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14333">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14334">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14335">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14336">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14337">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14338">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14339">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14340">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14341">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+			<Items Frame="14342">
+				<Items xsi:type="BoolAttribute" Name="ZoomIn" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

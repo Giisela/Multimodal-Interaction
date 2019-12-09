@@ -1,0 +1,353 @@
+﻿<?xml version="1.0"?>
+<grammar xml:lang="pt-PT" version="1.0" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+	<rule id="rootRule" scope="public">
+    <item repeat="0-1">
+      <one-of>
+        <item>podes</item>
+        <item>pode</item>
+        <item>quero</item>
+        <item>queres</item>
+        <item>deixa-me</item>
+        <item>deixa</item>
+      </one-of>
+    </item>
+    <item repeat="0-1">por favor</item>
+    <item>
+      <ruleref uri="#editionMode"/>
+      <tag>out=rules.latest();</tag>
+    </item>
+    <item repeat="0-1">por favor</item>
+	</rule>
+  
+	<rule id="editionMode">
+	  <one-of>
+      <item>
+        <one-of>
+          <item>apresentar</item>
+          <item>apresenta</item>
+          <item>começar</item>
+          <item>começa</item>
+          <item>está na hora</item>
+          <item>temos de iniciar</item>
+          <item>inicia</item>
+          <item>iniciar</item>
+        </one-of>
+        <item repeat="0-1">a apresentação</item>
+        <tag>out.presentation="START"</tag>
+      </item>
+
+      <item>
+        <one-of>
+          <item>ler</item>
+          <item>lê</item>
+        </one-of>
+        <one-of>
+          <item>
+            <item repeat="0-1">o</item>
+            <one-of>
+              <item>título<tag>out.read = "TITLE"</tag></item>
+              <item>texto<tag>out.read = "TEXT"</tag></item>
+            </one-of>
+          </item>
+          <item>
+            <item repeat="0-1">as</item>
+            <item> notas<tag>out.read ="NOTE"</tag></item>
+          </item>
+        </one-of>
+      </item>
+      
+      <item>
+        <one-of>
+          <item>adicionar</item>
+          <item>adiciona</item>
+          <item>mudar</item>
+          <item>muda</item>
+          <item>alterar</item>
+          <item>altera</item>
+          <item>vamos personalizar</item>
+          <item>personaliza</item>
+          <item>editar</item>
+          <item>edita</item>
+        </one-of>
+        <one-of>
+          <item repeat ="0-1">
+            <item repeat="0-1">
+              <one-of>
+                <item repeat="0-1">uma</item>
+                <item repeat="0-1">a</item>
+              </one-of>
+            </item>
+            cor
+            <one-of>
+              <item repeat="0-1">do</item>
+              <item repeat="0-1">a</item>
+              <item repeat="0-1">ao</item>
+            </one-of>
+            <one-of>
+              <item>título<tag>out.color="TITLE"</tag></item>
+              <item>texto<tag>out.color="TEXT"</tag></item>
+            </one-of>
+            <item repeat="0-1">para</item>
+            <item>
+              <ruleref uri="#color"/>
+              <tag> out.colorColor=rules.latest();</tag>
+            </item>
+          </item>
+          <item repeat="0-1">
+            <one-of>
+              <item>
+                tema
+                <ruleref uri="#number"/>
+                <tag> out.theme=rules.latest();</tag>
+              </item>
+            </one-of>
+          </item>
+        </one-of>
+      </item>
+
+      <item>
+        <one-of>
+          <item>guarda</item>
+          <item>guardar</item>
+          <item>salva</item>
+          <item>salvar</item>
+        </one-of>
+          <item repeat="0-1">o</item>
+          <item repeat="0-1">ficheiro</item>
+          <tag>out.save="SAVE"</tag>
+      </item>
+
+      <item>
+        <one-of>
+          <item>
+            <one-of>
+              <item>novo</item>
+              <item>cria</item>
+              <item>criar</item>
+              <item>começa</item>
+              <item>começar</item>
+            </one-of>
+            <item repeat="0-1">
+              <one-of>
+                <item>um</item>
+                <item>uma</item>
+              </one-of>
+            </item>
+            <item repeat="0-1">
+              <one-of>
+                <item>novo</item>
+                <item>nova</item>
+              </one-of>
+            </item>
+            <tag>out.slide="NEW_SLIDE"</tag>
+          </item>
+          <item>
+            <one-of>
+              <item>apaga</item>
+              <item>apagar</item>
+              <item>remover</item>
+              <item>remove</item>
+              <item>manda para o lixo</item>
+              <item>eliminar</item>
+              <item>elimina</item>
+            </one-of>
+            <item repeat="0-1">
+              <one-of>
+                <item>o</item>
+                <item>a</item>
+              </one-of>
+            </item>
+            <tag>out.slide="REMOVE_SLIDE"</tag>
+          </item>
+        </one-of>
+        <one-of>
+          <item>slide</item>
+          <item>diapositivo</item>
+          <item>acetato</item>
+          <item>transparência</item>
+        </one-of>
+      </item>
+
+      <item>
+        <one-of>
+          <item>
+            <one-of>
+              <item>avançar</item>
+              <item>avança</item>
+              <item>
+                <item repeat="0-1">
+                  <item>passa para</item>
+                  <item repeat="0-1">
+                    <one-of>
+                      <item>o</item>
+                      <item>a</item>
+                    </one-of>
+                  </item>
+                </item>
+                <one-of>
+                  <item>próximo</item>
+                  <item>próxima</item>
+                </one-of>
+              </item>
+              <item>segue</item>
+              <item>seguinte</item>
+            </one-of>
+            <tag>out.slide ="NEXT"</tag>
+          </item>
+          <item>
+            <one-of>
+              <item>
+                <item>recuar</item>
+                <item repeat="0-1">
+                  <one-of>
+                    <item>o</item>
+                    <item>a</item>
+                  </one-of>
+                </item>
+              </item>
+              <item>para trás</item>
+              <item>anterior</item>
+              <item>vai ali atras</item>
+              <item>volta atras</item>
+            </one-of>
+            <tag>out.slide ="PREVIOUS"</tag>
+          </item>
+        </one-of>
+        <item repeat="0-1">
+          <one-of>
+            <item>slide</item>
+            <item>diapositivo</item>
+            <item>acetato</item>
+            <item>transparência</item>
+          </one-of>
+        </item>
+      </item>
+
+      <item>
+        <item>
+          <one-of>
+            <item>salta para</item>
+            <item>saltar para</item>
+            <item>vai para  </item>
+            <item>consulta</item>
+            <item>ir para</item>
+            <item>mostra-me o</item>
+          </one-of>
+          <tag>out.slide ="JUMP_TO"</tag>
+        </item>
+      <item repeat="0-1">
+        <one-of>
+          <item>slide</item>
+          <item>diapositivo</item>
+          <item>acetato</item>
+          <item>transparência</item>
+        </one-of>
+      </item>
+      <item>
+        <ruleref uri="#number"/>
+        <tag> out.number=rules.latest();</tag>
+      </item>
+    </item>
+
+           
+
+      <item>
+        <one-of>
+          <item>termina</item>
+          <item>acaba</item>
+          <item>acabar</item>
+          <item>terminar</item>
+          <item>fechar</item>
+          <item>fecha</item>
+          <item>acabou por hoje</item>
+          <item>adeus</item>
+          <item>já chega por hoje</item>
+          <item>chega</item>
+        </one-of>
+        <item repeat="0-1">o</item>
+        <one-of>
+          <item repeat="0-1">Power Point</item>
+          <item repeat="0-1">Programa</item>
+          <item repeat="0-1">Sistema</item>
+        </one-of>
+        <tag>out.close="CLOSE"</tag>
+      </item>
+
+      <item>
+        <item repeat="0-1">
+          <one-of>
+            <item>claro</item>
+            <item>afirmativo</item>
+            <item>obvio</item>
+            <item>faz</item>
+            <item>ok</item>
+            <item>certo</item>
+          </one-of>
+          <item repeat="0-1">que</item>
+        </item>
+        <item repeat="0-1">sim</item>
+        <tag>out.confirmation="YES"</tag>
+      </item>
+
+      <item>
+        <item repeat="0-1">
+          <one-of>
+            <item>obvio</item>
+            <item>nem pensar</item>
+            <item>nunca</item>
+            <item>não podes</item>
+            <item>incorreto</item>
+            <item>não disse isso</item>
+          </one-of>
+          <item repeat="0-1">que</item>
+        </item>
+        <item repeat="0-1">não</item>
+        <tag>out.confirmation="NO"</tag>
+      </item>
+
+      <item>
+        <one-of>
+          <item>mostrar o exemplo</item>
+          <item>abre o exemplo</item>
+          <item>abrir o exemplo</item>
+          <item>exemplo</item>
+          <item>template</item>
+          <item>o exemplo</item>
+          <item>teste</item>
+        </one-of>
+        <tag>out.example="EXAMPLE"</tag>
+      </item>
+	  </one-of>
+	</rule>
+  
+  
+  <rule id="color">
+    <one-of>
+      <item>amarelo <tag>out="YELLOW"</tag> </item>
+      <item>amarela<tag>out="YELLOW"</tag></item>
+      <item>vermelho <tag>out="RED"</tag></item>
+      <item>vermelha <tag>out="RED"</tag></item>
+      <item>azul <tag>out="BLUE"</tag></item>
+      <item>verde <tag>out="GREEN"</tag></item>
+      <item>preto <tag>out="BLACK"</tag></item>
+      <item>preta <tag>out="BLACK"</tag></item>
+    </one-of>
+  </rule>
+  
+  <rule id="number">
+    <one-of>
+      <item>um<tag> out = 1; </tag></item>
+      <item>dois<tag> out = 2; </tag></item>
+      <item>três<tag> out = 3; </tag></item>
+      <item>quatro<tag> out = 4; </tag></item>
+      <item>cinco<tag> out = 5; </tag></item>
+      <item>seis<tag> out = 6; </tag></item>
+      <item>sete<tag> out = 7; </tag></item>
+      <item>oito<tag> out = 8; </tag></item>
+      <item>nove<tag> out = 9; </tag></item>
+      <item>dez<tag> out = 10; </tag></item>
+      <item>onze<tag> out = 11; </tag></item>
+      <item>doze<tag> out = 12; </tag></item>
+    </one-of>
+  </rule>
+</grammar>

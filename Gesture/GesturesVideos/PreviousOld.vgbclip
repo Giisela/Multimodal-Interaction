@@ -1,0 +1,3416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-06</Date>
+			<Time>22:07:27.6490732+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Previous.xef</Clip>
+			<StartFrame>916</StartFrame>
+			<EndFrame>2445</EndFrame>
+			<ID>15c29fbf-21ef-4653-b9c3-23cd892b8059</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>2325</CurrentFrameStart>
+			<CurrentFrameEnd>2375</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="964">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="965">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="966">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="967">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="968">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="969">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="970">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="971">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="972">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="973">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="974">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="975">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="976">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="977">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="978">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="979">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="980">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="981">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="982">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="983">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="984">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="985">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="986">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="987">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="988">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="989">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="990">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="991">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="992">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="993">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="994">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="995">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="996">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="997">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="998">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="999">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1000">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1001">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1002">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1003">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1004">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1005">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1006">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1007">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1008">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1009">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1010">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1011">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1012">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1013">
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1034">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1035">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1036">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1037">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1038">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1039">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1040">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1041">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1042">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1043">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1044">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1045">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1046">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1047">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1048">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1049">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1050">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1051">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1052">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1053">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1054">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1055">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1056">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1057">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1058">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1059">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1060">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1061">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1062">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1063">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1064">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1065">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1066">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1067">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1068">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1069">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1070">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1071">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1072">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1073">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1074">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1075">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1076">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1077">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1078">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1079">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1109">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1110">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1111">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1112">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1113">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1114">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1115">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1116">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1117">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1118">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1119">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1120">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1121">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1122">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1123">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1124">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1125">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1126">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1127">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1128">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1129">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1130">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1131">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1132">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1133">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1134">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1135">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1136">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1137">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1138">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1139">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1140">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1141">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1142">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1143">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1144">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1145">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1146">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1147">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1148">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1149">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1150">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1151">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1152">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1153">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1154">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1155">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1156">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1157">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1158">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1159">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1160">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1161">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1162">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1163">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1164">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1165">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1166">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1167">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1168">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1169">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1170">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1171">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1172">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1173">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1174">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1195">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1196">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1197">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1198">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1199">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1200">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1201">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1202">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1203">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1204">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1205">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1206">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1207">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1208">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1209">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1210">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1211">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1212">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1213">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1214">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1215">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1216">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1217">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1218">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1219">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1220">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1221">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1222">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1223">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1224">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1225">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1226">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1227">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1228">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1229">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1230">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1231">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1232">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1233">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1234">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1235">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1236">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1266">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1267">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1268">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1269">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1270">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1271">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1272">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1273">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1274">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1275">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1276">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1277">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1278">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1279">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1280">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1281">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1282">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1283">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1284">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1285">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1286">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1287">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1288">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1289">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1290">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1291">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1292">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1293">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1294">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1295">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1296">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1297">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1298">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1299">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1300">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1301">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1302">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1303">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1304">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1305">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1306">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1307">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1308">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1309">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1310">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1311">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1312">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1313">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1314">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1315">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1316">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1317">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1318">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1347">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1348">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1349">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1350">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1351">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1352">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1353">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1354">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1355">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1356">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1357">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1358">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1359">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1360">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1361">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1362">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1363">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1364">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1365">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1366">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1367">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1368">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1369">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1370">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1371">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1372">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1373">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1374">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1375">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1376">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1377">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1378">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1379">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1380">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1381">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1382">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1383">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1384">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1385">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1386">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1387">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1388">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1389">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1390">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1391">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1392">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1393">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1422">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1423">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1424">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1425">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1426">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1427">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1428">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1429">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1430">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1431">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1432">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1433">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1434">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1435">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1436">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1437">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1438">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1439">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1440">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1441">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1442">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1443">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1444">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1445">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1446">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1447">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1448">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1449">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1450">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1451">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1452">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1453">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1454">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1455">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1456">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1486">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1487">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1488">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1489">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1490">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1491">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1492">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1493">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1494">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1495">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1496">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1497">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1498">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1499">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1500">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1501">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1502">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1503">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1504">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1505">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1506">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1507">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1508">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1509">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1510">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1511">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1512">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1513">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1514">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1515">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1516">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1517">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1518">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1519">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1520">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1521">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1522">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1523">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1524">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1525">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1526">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1558">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1559">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1560">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1561">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1562">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1563">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1564">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1565">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1566">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1567">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1568">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1569">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1570">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1571">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1572">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1573">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1574">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1575">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1576">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1577">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1578">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1579">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1580">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1581">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1582">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1583">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1584">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1585">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1586">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1587">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1588">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1589">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1590">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1591">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1592">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1593">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1594">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1595">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1596">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1597">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1598">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1599">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1600">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1638">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1639">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1640">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1641">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1642">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1643">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1644">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1645">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1646">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1647">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1648">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1649">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1650">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1651">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1652">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1653">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1654">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1655">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1656">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1657">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1658">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1659">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1660">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1661">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1662">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1663">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1664">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1665">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1666">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1667">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1668">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1669">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1670">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1671">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1672">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1673">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1674">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1675">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1676">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1677">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1678">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1679">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1702">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1703">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1704">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1705">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1706">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1707">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1708">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1709">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1710">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1711">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1712">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1713">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1714">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1715">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1716">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1717">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1718">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1719">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1720">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1721">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1722">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1723">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1724">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1725">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1726">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1727">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1728">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1729">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1730">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1731">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1732">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1733">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1734">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1735">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1736">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1737">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1738">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1739">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1740">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1741">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1742">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1743">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1744">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1745">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1746">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1747">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1748">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1749">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1750">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1751">
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1771">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1772">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1773">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1774">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1775">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1776">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1777">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1778">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1779">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1780">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1781">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1782">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1783">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1784">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1785">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1786">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1787">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1788">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1789">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1790">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1791">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1792">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1793">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1794">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1795">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1796">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1797">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1798">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1799">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1800">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1801">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1802">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1803">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1804">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1805">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1806">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1807">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1808">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1809">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1810">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1811">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1812">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1813">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1814">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1815">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1816">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1817">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1818">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1833">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1834">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1835">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1836">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1837">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1838">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1839">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1840">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1841">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1842">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1843">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1844">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1845">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1846">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1847">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1848">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1849">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1850">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1851">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1852">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1853">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1854">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1855">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1856">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1857">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1858">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1859">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1860">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1861">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1862">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1863">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1864">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1865">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1866">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1867">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1868">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1869">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1870">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1871">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1872">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1873">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1874">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1875">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1876">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1877">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Right" Value="true" />
+			</Items>
+			<Items Frame="1878">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1879">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1894">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1895">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1896">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1897">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1898">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1899">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1900">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1901">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1902">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1903">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1904">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1905">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1906">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1907">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1908">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1909">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1910">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1911">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1912">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1913">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1914">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1915">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1916">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1917">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1918">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1919">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1920">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1921">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1922">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1923">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1924">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1925">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1926">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1927">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1928">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1929">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1930">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1931">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1932">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1933">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1934">
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1959">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1960">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1961">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1962">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1963">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1964">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1965">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1966">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1967">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1968">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="1969">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1970">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1971">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1972">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1973">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1974">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1975">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1976">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1977">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1978">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1979">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1980">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1981">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1982">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1983">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1984">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1985">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1986">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1987">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1988">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1989">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1990">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1991">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1992">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="1993">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2009">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2010">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2011">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2012">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2013">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2014">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2015">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2016">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2017">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2018">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2019">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2020">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2021">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2022">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2023">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2024">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2025">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2026">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2027">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2028">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2029">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2030">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2031">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2032">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2033">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2034">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2035">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2036">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2037">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2038">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2039">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2040">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2041">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2042">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2043">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2044">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2045">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2046">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2047">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2048">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2049">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2050">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2051">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2052">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2053">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2054">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2085">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2086">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2087">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2088">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2089">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2090">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2091">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2092">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2093">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2094">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2095">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2096">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2097">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2098">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2099">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2100">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2101">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2102">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2103">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2104">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2105">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2106">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2107">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2108">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2109">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2110">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2111">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2112">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2113">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2114">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2115">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2116">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2117">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2118">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2140">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2141">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2142">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2143">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2144">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2145">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2146">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2147">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2148">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2149">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2150">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2151">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2152">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2153">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2154">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2155">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2156">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2157">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2158">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2159">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2160">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2161">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2162">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2163">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2164">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2165">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2166">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2167">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2168">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2169">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2170">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2171">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2172">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2173">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2174">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2175">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2176">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2177">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2178">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2179">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2180">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2181">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2182">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2183">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2184">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2185">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2194">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2195">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2196">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2197">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2198">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2199">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2200">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2201">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2202">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2203">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2204">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2205">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2206">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2207">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2208">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2209">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2210">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2211">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2212">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2213">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2214">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2215">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2216">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2217">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2218">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2219">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2220">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2221">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2222">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2223">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2224">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2225">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2226">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2227">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2228">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2229">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2230">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2231">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2232">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2233">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2234">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2235">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2236">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2237">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2238">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2239">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2240">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2241">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2242">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2243">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2263">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2264">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2265">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2266">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2267">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2268">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2269">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2270">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2271">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2272">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2273">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2274">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2275">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2276">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2277">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2278">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2279">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2280">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2281">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2282">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2283">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2284">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2285">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2286">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2287">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2288">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2289">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2290">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2291">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2292">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2293">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2294">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2295">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2296">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2297">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previous_Left" Value="true" />
+			</Items>
+			<Items Frame="2298">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2309">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2310">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2311">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2312">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2313">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2314">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2315">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2316">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2317">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2318">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2319">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2320">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2321">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2322">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2323">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2324">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2325">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2326">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2327">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2328">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2329">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2330">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2331">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2332">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2333">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2334">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2335">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2336">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2337">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2338">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2339">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2340">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2341">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2342">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2343">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2344">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2345">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2346">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2347">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2348">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2349">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2350">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2351">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2352">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2353">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2354">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2355">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2356">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2357">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2358">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2359">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2360">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2361">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2362">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2363">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2364">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2365">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+			<Items Frame="2366">
+				<Items xsi:type="BoolAttribute" Name="Previous" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2019-12-07</Date>
+			<Time>16:16:16.2005245+00:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>695b4269-cf49-46b7-a909-803739bcffec</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>Close.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Close.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CropIn.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CropIn.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CropOut.vgbproj</File>
+					</Items>
+					<Items>
+						<File>CropOut.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Next.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Next.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Open.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Open.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>OpenAndClose.vgbproj</File>
+					</Items>
+					<Items>
+						<File>OpenAndClose.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Previous.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Previous.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ZoomIn.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ZoomIn.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ZoomOut.vgbproj</File>
+					</Items>
+					<Items>
+						<File>ZoomOut.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

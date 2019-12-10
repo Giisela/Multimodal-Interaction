@@ -3,7 +3,7 @@
 	<ProjectFile>
 		<Header>
 			<Date>2019-12-10</Date>
-			<Time>00:12:49.6786308+00:00</Time>
+			<Time>17:16:09.7882268+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -25,9 +25,6 @@
 						<File>../../GesturesVideos/Close.vgbclip</File>
 					</Items>
 					<Items>
-						<File>../../GesturesVideos/CropIn.vgbclip</File>
-					</Items>
-					<Items>
 						<File>../../GesturesVideos/Next.vgbclip</File>
 					</Items>
 					<Items>
@@ -35,6 +32,9 @@
 					</Items>
 					<Items>
 						<File>../../GesturesVideos/Previous.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/Theme.vgbclip</File>
 					</Items>
 					<Items>
 						<File>../../GesturesVideos/ZoomIn.vgbclip</File>

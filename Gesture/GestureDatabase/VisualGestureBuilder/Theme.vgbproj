@@ -3,19 +3,19 @@
 	<ProjectFile>
 		<Header>
 			<Date>2019-12-10</Date>
-			<Time>17:15:50.6558615+00:00</Time>
+			<Time>16:26:53.7901503+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
 				<Type>Training</Type>
-				<ProjectAttribute Name="ZoomOut" Type="BOOL" />
+				<ProjectAttribute Name="Theme" Type="BOOL" />
 				<ProjectAccompanyAttributes>
 					<Items Name="Confidence" Type="FLOAT" />
 					<Items Name="FirstFrameDetected" Type="BOOL" />
 				</ProjectAccompanyAttributes>
-				<DefaultTag xsi:type="BoolAttribute" Name="ZoomOut" Value="false" />
+				<DefaultTag xsi:type="BoolAttribute" Name="Theme" Value="false" />
 			</Function>
-			<ID>c225d519-9485-4431-a770-ed87a9468e51</ID>
+			<ID>f64d9225-0723-4d78-a91c-041d3a1ddde4</ID>
 		</Header>
 		<Project_Data>
 			<Files>
@@ -23,6 +23,12 @@
 				<Content>
 					<Items>
 						<File>../../GesturesVideos/Close.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/CropIn.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/CropOut.vgbclip</File>
 					</Items>
 					<Items>
 						<File>../../GesturesVideos/Next.vgbclip</File>
@@ -35,6 +41,9 @@
 					</Items>
 					<Items>
 						<File>../../GesturesVideos/Theme.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/ZoomIn.vgbclip</File>
 					</Items>
 					<Items>
 						<File>../../GesturesVideos/ZoomOut.vgbclip</File>

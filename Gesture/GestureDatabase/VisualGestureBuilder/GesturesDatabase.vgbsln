@@ -3,7 +3,7 @@
 	<SolutionFile>
 		<Header>
 			<Date>2019-12-10</Date>
-			<Time>12:32:55.1453711+00:00</Time>
+			<Time>16:14:06.7332801+00:00</Time>
 			<Version>1</Version>
 			<Type>Solution</Type>
 			<ID>695b4269-cf49-46b7-a909-803739bcffec</ID>
@@ -47,6 +47,12 @@
 					</Items>
 					<Items>
 						<File>Previous.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Theme.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Theme.a.vgbproj</File>
 					</Items>
 					<Items>
 						<File>ZoomIn.vgbproj</File>

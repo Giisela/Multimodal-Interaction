@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ProjectFile>
 		<Header>
-			<Date>2019-12-07</Date>
-			<Time>16:18:51.9969208+00:00</Time>
+			<Date>2019-12-10</Date>
+			<Time>13:02:37.3458708+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -22,7 +22,25 @@
 				<Name />
 				<Content>
 					<Items>
+						<File>../../GesturesVideos/Close.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/CropIn.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/CropOut.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/Open.vgbclip</File>
+					</Items>
+					<Items>
 						<File>../../GesturesVideos/Previous.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/ZoomIn.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../../GesturesVideos/ZoomOut.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>

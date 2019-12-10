@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<SolutionFile>
 		<Header>
-			<Date>2019-12-07</Date>
-			<Time>16:16:16.2005245+00:00</Time>
+			<Date>2019-12-10</Date>
+			<Time>12:32:55.1453711+00:00</Time>
 			<Version>1</Version>
 			<Type>Solution</Type>
 			<ID>695b4269-cf49-46b7-a909-803739bcffec</ID>
@@ -41,12 +41,6 @@
 					</Items>
 					<Items>
 						<File>Open.a.vgbproj</File>
-					</Items>
-					<Items>
-						<File>OpenAndClose.vgbproj</File>
-					</Items>
-					<Items>
-						<File>OpenAndClose.a.vgbproj</File>
 					</Items>
 					<Items>
 						<File>Previous.vgbproj</File>

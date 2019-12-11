@@ -1,0 +1,991 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-10</Date>
+			<Time>22:37:53.5363060+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Theme_Melhor.xef</Clip>
+			<StartFrame>39743</StartFrame>
+			<EndFrame>41256</EndFrame>
+			<ID>75450301-78cc-4f73-b992-b017d9a9a8d2</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>41239</CurrentFrameStart>
+			<CurrentFrameEnd>41240</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="39833">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39834">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39835">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39836">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39837">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39838">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39839">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39840">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39841">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39842">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39843">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39844">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39845">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39846">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39847">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39848">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39907">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39908">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39909">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39910">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39911">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39912">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39913">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39914">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39915">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39916">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39917">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39918">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39919">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39920">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39921">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39922">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39923">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39924">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39925">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39926">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39927">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39928">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39929">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39930">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39931">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39932">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39933">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39934">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39935">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="39936">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40060">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40061">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40062">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40063">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40064">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40065">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40066">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40067">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40068">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40069">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40070">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40071">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40072">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40073">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40074">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40075">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40076">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40077">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40078">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40079">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40080">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40081">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40082">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40083">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40084">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40201">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40202">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40203">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40204">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40205">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40206">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40207">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40208">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40209">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40210">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40211">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40212">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40213">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40214">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40215">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40216">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40217">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40218">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40219">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40220">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40221">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40222">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40223">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40224">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40225">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40226">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40227">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40228">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40229">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40230">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40231">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40232">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40233">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40234">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40315">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40316">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40317">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40318">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40319">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40320">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40321">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40322">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40323">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40324">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40325">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40326">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40327">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40328">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40329">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40330">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40331">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40332">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40333">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40334">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40335">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40336">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40337">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40338">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40339">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40340">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40341">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40342">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40343">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40344">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40345">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40346">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40347">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40348">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40349">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40350">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40351">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40454">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40455">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40456">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40457">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40458">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40459">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40460">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40461">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40462">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40463">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40464">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40465">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40466">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40467">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40468">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40469">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40470">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40471">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40472">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40473">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40474">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40475">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40476">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40477">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40478">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40479">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40480">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40481">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40482">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40483">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40484">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40485">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40486">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40613">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40614">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40615">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40616">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40617">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40618">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40619">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40620">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40621">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40622">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40623">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40624">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40625">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40626">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40627">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40628">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40629">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40630">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40631">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40632">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40633">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40634">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40635">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40636">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40637">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40742">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40743">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40744">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40745">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40746">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40747">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40748">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40749">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40750">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40751">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40752">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40753">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40754">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40755">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40756">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40757">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40758">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40759">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40760">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40761">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40762">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40763">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40764">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40765">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40766">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40767">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40768">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40769">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40770">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40771">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40772">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40773">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40774">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40775">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40776">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40777">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40778">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40779">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40899">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40900">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40901">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40902">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40903">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40904">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40905">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40906">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40907">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40908">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40909">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40910">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40911">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40912">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40913">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40914">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40915">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40916">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40917">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40918">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40919">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40920">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40921">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="40922">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41049">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41050">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41051">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41052">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41053">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41054">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41055">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41056">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41057">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41058">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41059">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41060">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41061">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41062">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41063">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41064">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41065">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41066">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41067">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41068">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41069">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41070">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41071">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41176">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41177">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41178">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41179">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41180">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41181">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41182">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41183">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41184">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41185">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41186">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41187">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41188">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41189">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41190">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41191">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41192">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41193">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41194">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41195">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41196">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41197">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41198">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41199">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41200">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41201">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41202">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41203">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41204">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41205">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41206">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41207">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41208">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41209">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+			<Items Frame="41210">
+				<Items xsi:type="BoolAttribute" Name="Thema_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

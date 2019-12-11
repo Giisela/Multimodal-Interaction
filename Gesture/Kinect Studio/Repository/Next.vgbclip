@@ -1,0 +1,556 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-10</Date>
+			<Time>22:25:02.7691209+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>Next.xef</Clip>
+			<StartFrame>4643</StartFrame>
+			<EndFrame>5903</EndFrame>
+			<ID>b0402df2-fb14-4825-9ce3-e3d790c89e73</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>5857</CurrentFrameStart>
+			<CurrentFrameEnd>5858</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="4754">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4755">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4756">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4757">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4758">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4759">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4760">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4761">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4762">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4763">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4764">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4765">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4766">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4767">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4768">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4769">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4770">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4771">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4844">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4845">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4846">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4847">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4848">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4849">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4850">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4851">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4852">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4853">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4854">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4855">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4856">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4936">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4937">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4938">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4939">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4940">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4941">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4942">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4943">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4944">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4945">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="4946">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5021">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5022">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5023">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5024">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5025">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5026">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5027">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5028">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5029">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5030">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5031">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5032">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5033">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5034">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5117">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5118">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5119">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5120">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5121">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5122">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5123">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5124">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5125">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5126">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5127">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5128">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5129">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5130">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5200">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5201">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5202">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5203">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5204">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5205">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5206">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5207">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5208">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5209">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5210">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5211">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5212">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5213">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5214">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5215">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5298">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5299">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5300">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5301">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5302">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5303">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5304">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5305">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5306">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5307">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5308">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5309">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5310">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5311">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5312">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5387">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5388">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5389">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5390">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5391">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5392">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5393">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5394">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5395">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5396">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5397">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5398">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5399">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5400">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5401">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5402">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5403">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5404">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5405">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5406">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5475">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5476">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5477">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5478">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5479">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5480">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5481">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5482">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5483">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5484">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5485">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5486">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5487">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5488">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5489">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5565">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5566">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5567">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5568">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5569">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5570">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5571">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5572">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5573">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5574">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5575">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5576">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5577">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5578">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5579">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5580">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5658">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5659">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5660">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5661">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5662">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5663">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5664">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5665">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5666">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5667">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5668">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5669">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5670">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5743">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5744">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5745">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5746">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5747">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5748">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5749">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5750">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5751">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+			<Items Frame="5752">
+				<Items xsi:type="BoolAttribute" Name="Next_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

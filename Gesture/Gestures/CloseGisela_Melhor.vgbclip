@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-10</Date>
+			<Time>23:58:23.3776154+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>CloseGisela_Melhor.xef</Clip>
+			<StartFrame>2436</StartFrame>
+			<EndFrame>3525</EndFrame>
+			<ID>6a923549-855f-4300-aba7-f0195e292295</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>2436</CurrentFrameStart>
+			<CurrentFrameEnd>2437</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes />
+	</ClipFile>
+</GestureBuilderFile>

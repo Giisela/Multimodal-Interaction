@@ -1,0 +1,1009 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2019-12-10</Date>
+			<Time>23:10:19.1662675+00:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>CropOutGisela_Melhor.xef</Clip>
+			<StartFrame>8274</StartFrame>
+			<EndFrame>9523</EndFrame>
+			<ID>a9ca9024-5db4-4baa-a60c-c53e2280cd6e</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>8379</CurrentFrameStart>
+			<CurrentFrameEnd>8380</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="8364">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8365">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8366">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8367">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8368">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8369">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8370">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8371">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8372">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8373">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8374">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8375">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8376">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8377">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8378">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8379">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8380">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8457">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8458">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8459">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8460">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8461">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8462">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8463">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8464">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8465">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8466">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8467">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8468">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8469">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8470">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8471">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8472">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8473">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8474">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8475">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8476">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8477">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8478">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8479">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8480">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8481">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8482">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8483">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8484">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8485">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8486">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8487">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8568">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8569">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8570">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8571">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8572">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8573">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8574">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8575">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8576">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8577">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8578">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8579">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8580">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8581">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8582">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8583">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8584">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8585">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8586">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8587">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8588">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8589">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8590">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8591">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8592">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8593">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8594">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8595">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8596">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8597">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8598">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8599">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8674">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8675">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8676">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8677">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8678">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8679">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8680">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8681">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8682">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8683">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8684">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8685">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8686">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8687">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8688">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8689">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8690">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8691">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8692">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8693">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8694">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8695">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8696">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8697">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8698">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8699">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8700">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8701">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8702">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8703">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8767">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8768">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8769">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8770">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8771">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8772">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8773">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8774">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8775">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8776">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8777">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8778">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8779">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8780">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8781">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8782">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8783">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8784">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8785">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8786">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8787">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8788">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8789">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8790">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8791">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8792">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8793">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8867">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8868">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8869">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8870">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8871">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8872">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8873">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8874">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8875">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8876">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8877">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8878">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8879">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8880">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8881">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8882">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8883">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8884">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8885">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8886">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8887">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8888">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8889">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8890">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8891">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8952">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8953">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8954">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8955">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8956">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8957">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8958">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8959">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8960">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8961">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8962">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8963">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8964">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8965">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8966">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8967">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8968">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8969">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8970">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8971">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8972">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8973">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8974">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8975">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8976">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8977">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8978">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8979">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8980">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8981">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8982">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="8983">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9048">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9049">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9050">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9051">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9052">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9053">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9054">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9055">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9056">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9057">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9058">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9059">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9060">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9061">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9062">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9063">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9064">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9065">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9066">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9067">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9068">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9069">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9070">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9071">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9072">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9073">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9141">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9142">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9143">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9144">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9145">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9146">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9147">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9148">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9149">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9150">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9151">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9152">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9153">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9154">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9155">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9156">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9157">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9158">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9159">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9160">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9161">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9162">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9163">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9164">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9165">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9236">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9237">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9238">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9239">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9240">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9241">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9242">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9243">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9244">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9245">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9246">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9247">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9248">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9249">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9250">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9251">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9252">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9253">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9254">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9255">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9256">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9257">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9258">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9259">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9260">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9261">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9262">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9263">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9264">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9265">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9266">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9267">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9353">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9354">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9355">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9356">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9357">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9358">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9359">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9360">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9361">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9362">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9363">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9364">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9365">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9366">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9367">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9368">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9369">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9370">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9371">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9372">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9373">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9374">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9375">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9376">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9377">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9378">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9379">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9380">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9450">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9451">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9452">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9453">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9454">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9455">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9456">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9457">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9458">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9459">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9460">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9461">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9462">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9463">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9464">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9465">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9466">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9467">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9468">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9469">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+			<Items Frame="9470">
+				<Items xsi:type="BoolAttribute" Name="CropOut" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

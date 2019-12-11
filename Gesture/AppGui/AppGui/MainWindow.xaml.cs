@@ -28,9 +28,11 @@ namespace AppGui
         private PowerPoint.Shape tShape;
         private bool openpowerpoint = false;
         private bool presentationMode = false;
+        float imgWidth;
+        float imgHeight;
 
         string startupPath = System.IO.Directory.GetCurrentDirectory();
-        
+
 
         private MmiCommunication mmiC;
 
@@ -39,7 +41,7 @@ namespace AppGui
             InitializeComponent();
 
 
-            mmiC = new MmiCommunication("localhost",8000, "User1", "GUI");
+            mmiC = new MmiCommunication("localhost", 8000, "User1", "GUI");
             mmiC.Message += MmiC_Message;
             mmiC.Start();
             oPowerPoint = new PowerPoint.Application();
@@ -48,7 +50,7 @@ namespace AppGui
             openpowerpoint = true;
             presentationMode = false;
 
-    }
+        }
 
         private void MmiC_Message(object sender, MmiEventArgs e)
         {
@@ -58,68 +60,49 @@ namespace AppGui
             dynamic json = JsonConvert.DeserializeObject(com);
 
             Console.WriteLine(json);
-            Console.WriteLine("Recognize: "+ (string)json.recognized[1].ToString());
+            Console.WriteLine("Recognize: " + (string)json.recognized[1].ToString());
             Console.WriteLine("OPEN Power Point!");
 
-            
+
             switch ((string)json.recognized[1].ToString())
             {
                 case "CropI":
                     Console.WriteLine("DO CROP IN!");
-                    //crop Picture
-                    tShape.PictureFormat.CropLeft = 30;
-                    tShape.PictureFormat.CropRight = 70;
-                    tShape.PictureFormat.CropBottom = 60;
-                    tShape.PictureFormat.CropTop = 70;
+                   
+                    tShape.PictureFormat.CropLeft = imgWidth*20/100;
+                    tShape.PictureFormat.CropRight = imgWidth * 20 / 100;
+                    tShape.PictureFormat.CropBottom = imgHeight * 20 / 100;
+                    tShape.PictureFormat.CropTop = imgHeight * 20 / 100;
 
                     break;
 
                 case "CropO":
                     Console.WriteLine("DO CROP OUT!");
                     //crop Picture
-                    tShape.PictureFormat.CropLeft = 50;
-                    tShape.PictureFormat.CropRight = 90;
-                    tShape.PictureFormat.CropBottom = 80;
-                    tShape.PictureFormat.CropTop = 90;
+                    
+                    tShape.PictureFormat.CropLeft = imgWidth * (20/100);
+                    tShape.PictureFormat.CropRight = imgWidth * (20 / 100);
+                    tShape.PictureFormat.CropBottom = imgHeight * (20 / 100);
+                    tShape.PictureFormat.CropTop = imgHeight * (20 / 100);
                     break;
 
                 case "ZoomI":
                     Console.WriteLine("DO ZOOM IN!");
-                    OpenFileDialog openIn = new OpenFileDialog();
-                    openIn.FileName = startupPath + @"\kitty_cat.jpg";
-                    FileInfo fileIn = new FileInfo(openIn.FileName);
-                    var sizeInBytesIn = fileIn.Length;
 
-                    Bitmap imgIn = new Bitmap(openIn.FileName);
+                    tShape.ScaleHeight(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
+                    tShape.ScaleWidth(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
 
-                    var imageHeightIn = imgIn.Height;
-                    var imageWidthIn = imgIn.Width;
-
-
-                    //to move image just modify left top from the function AddPicture
-                    tShape = oSlide.Shapes.AddPicture("kitty_cat.jpg", Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 0, 0, imageWidthIn/5, imageHeightIn/5);
 
                     break;
 
                 case "ZoomO":
                     Console.WriteLine("DO ZOOM OUT!");
-                    OpenFileDialog openOut = new OpenFileDialog();
-                    openOut.FileName = startupPath + @"\kitty_cat.jpg";
-                    FileInfo fileOut = new FileInfo(openOut.FileName);
-                    var sizeInBytesOut = fileOut.Length;
-
-                    Bitmap imgOut = new Bitmap(openOut.FileName);
-
-                    var imageHeightOut = imgOut.Height;
-                    var imageWidthOut = imgOut.Width;
-
-
-                    //to move image just modify left top from the function AddPicture
-                    tShape = oSlide.Shapes.AddPicture("kitty_cat.jpg", Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 0, 0, imageWidthOut*5, imageHeightOut*5);
+                    tShape.ScaleHeight(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
+                    tShape.ScaleWidth(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
 
                     break;
 
-                case "OpenAC":
+                case "ThemaR":
                     Console.WriteLine("DO ADD THEME!");
                     string dir = @"C:\Program Files (x86)\Microsoft Office\";
                     if (Directory.Exists(dir))
@@ -138,7 +121,7 @@ namespace AppGui
                     presentationMode = true;
                     break;
 
-                case "Previous":
+                case "PreviousL":
                     Console.WriteLine("DO PREVIOUS!");
 
                     if (presentationMode == true)
@@ -152,7 +135,7 @@ namespace AppGui
                     }
                     break;
 
-                case "Next":
+                case "NextR":
                     Console.WriteLine("DO NEXT!");
 
                     if (presentationMode == true)
@@ -163,19 +146,20 @@ namespace AppGui
                     {
                         oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex + 1].Select();
                     }
-                    
+
                     break;
 
                 case "Close":
+                    Console.WriteLine("DO CLOSE!");
                     oPresentation.SlideShowWindow.View.Exit();
                     presentationMode = false;
                     break;
 
-            }    
-           
+            }
+
         }
 
-        private void examplePresentation() 
+        private void examplePresentation()
         {
 
             String presentationTitle = "Proposta de Trabalho 3";
@@ -203,4 +187,36 @@ namespace AppGui
                 "Crop da imagem.\n" +
                 "Zoom de uma imagem.\n" +
                 "Adicionar tema.\n" +
-                "Abrir mod
+                "Abrir modo apresentação.\n" +
+                "Fechar modo apresentação. \n";
+
+
+            oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
+            tShape = oSlide.Shapes.Title;
+            tShape.TextFrame.TextRange.Text = "Imagem";
+            tShape = oSlide.Shapes[2];
+
+            //Resize image
+            string startupPath = System.IO.Directory.GetCurrentDirectory();
+            //string startupPath = Environment.CurrentDirectory;
+            Console.WriteLine(startupPath);
+
+            OpenFileDialog open = new OpenFileDialog();
+            open.FileName = startupPath + @"\kitty_cat.jpg";
+            FileInfo file = new FileInfo(open.FileName);
+            var sizeInBytes = file.Length;
+
+            Bitmap img = new Bitmap(open.FileName);
+
+            var imageHeight = img.Height;
+            var imageWidth = img.Width;
+
+
+            //to move image just modify left top from the function AddPicture
+            tShape = oSlide.Shapes.AddPicture(@"kitty_cat.jpg", Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 0, 0, imageWidth, imageHeight);
+
+            imgWidth = tShape.Width;
+            imgHeight = tShape.Height;
+        }
+    }
+}

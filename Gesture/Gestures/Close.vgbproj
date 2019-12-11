@@ -3,7 +3,7 @@
 	<ProjectFile>
 		<Header>
 			<Date>2019-12-11</Date>
-			<Time>00:01:11.2498707+00:00</Time>
+			<Time>23:10:22.9732559+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -26,6 +26,18 @@
 					</Items>
 					<Items>
 						<File>../Kinect Studio/Repository/CloseGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/Previous.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/PreviouseGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/Tema.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/Theme_Melhor.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>

@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ProjectFile>
 		<Header>
-			<Date>2019-12-10</Date>
-			<Time>23:47:04.7813961+00:00</Time>
+			<Date>2019-12-11</Date>
+			<Time>23:23:08.9214089+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -22,6 +22,12 @@
 				<Name />
 				<Content>
 					<Items>
+						<File>../Kinect Studio/Repository/Close.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/CloseGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
 						<File>../Kinect Studio/Repository/Previous.vgbclip</File>
 					</Items>
 					<Items>
@@ -32,7 +38,7 @@
 		</Project_Data>
 		<UI_State />
 		<Attributes>
-			<Items xsi:type="FloatAttribute" Name="Accuracy Level" Value="0.75" MaxValue="1" MinValue="0" />
+			<Items xsi:type="FloatAttribute" Name="Accuracy Level" Value="0.8" MaxValue="1" MinValue="0" />
 			<Items xsi:type="IntAttribute" Name="Number Weak Classifiers at Runtime" Value="1000" MinValue="0" />
 			<Items xsi:type="BoolAttribute" Name="Filter Results" Value="true" />
 			<Items xsi:type="BoolAttribute" Name="Auto Find Best Filtering Params" Value="true" />

@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ClipFile>
 		<Header>
-			<Date>2019-12-10</Date>
-			<Time>22:11:38.0774916+00:00</Time>
+			<Date>2019-12-11</Date>
+			<Time>23:23:29.9844231+00:00</Time>
 			<Version>1</Version>
 			<Type>XefClip</Type>
 			<Clip>CloseGisela_Melhor.xef</Clip>
@@ -12,8 +12,8 @@
 			<ID>51cc2195-db8c-4248-ab71-4344d3e5151c</ID>
 		</Header>
 		<UI_State>
-			<CurrentFrameStart>3523</CurrentFrameStart>
-			<CurrentFrameEnd>3524</CurrentFrameEnd>
+			<CurrentFrameStart>2436</CurrentFrameStart>
+			<CurrentFrameEnd>3525</CurrentFrameEnd>
 			<AttributeInterpolations />
 			<AttributeKeys />
 		</UI_State>
@@ -26,1172 +26,3664 @@
 			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
 		</Attributes>
 		<ClipAttributes>
+			<Items Frame="2436">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2437">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2438">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2439">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2440">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2441">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2442">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2443">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2444">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2445">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2446">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2447">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2448">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2449">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2450">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2451">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2452">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2453">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2454">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2455">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2456">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2457">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2458">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2459">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2460">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2461">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2462">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2463">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2464">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2465">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2466">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2467">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2468">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2469">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2470">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2471">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2472">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2473">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2474">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2475">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2476">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2477">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2478">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2479">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2480">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2481">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2482">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2483">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2484">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2485">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2486">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2487">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2488">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2489">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2490">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2491">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2492">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2493">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2494">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2495">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2496">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2497">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2498">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2499">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2500">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2501">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2502">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2503">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2504">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
 			<Items Frame="2505">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2506">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2507">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2508">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2509">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2510">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2511">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2512">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2513">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2514">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2515">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2516">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2517">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2518">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2519">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2520">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2521">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2522">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2523">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2524">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2525">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2526">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2527">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2528">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2529">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2530">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2531">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2532">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2533">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2534">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2535">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2536">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2537">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2538">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2539">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2540">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2541">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2542">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2543">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2544">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2545">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2546">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2547">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2548">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2549">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2550">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2551">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2552">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2553">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2554">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2555">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2556">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2557">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2558">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2559">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2560">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2561">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2562">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2563">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2564">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2565">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2566">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2567">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2568">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2569">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2570">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2571">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2572">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2573">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2574">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2575">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2576">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2577">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2578">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2579">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2580">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2581">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2582">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2583">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2584">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2585">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2586">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2587">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2588">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2589">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2590">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2591">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2592">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2593">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2594">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2595">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2596">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2597">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2598">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2599">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2600">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2601">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2602">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2603">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2604">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2605">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2606">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2607">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2608">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2609">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2610">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2611">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2612">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2613">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2614">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2615">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2616">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2617">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2618">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2619">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2620">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2621">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2622">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2623">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2624">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2625">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2626">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2627">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2628">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2629">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2630">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2631">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2632">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2633">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2634">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2635">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2636">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2637">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2638">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2639">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2640">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2641">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2642">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2643">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2644">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2645">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2646">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2647">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2648">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2649">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2650">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2651">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2652">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2653">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2654">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2655">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2656">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2657">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2658">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2659">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2660">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2661">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2662">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2663">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2664">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2665">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2666">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2667">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2668">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2669">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2670">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2671">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2672">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2673">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2674">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2675">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2676">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2677">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2678">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2679">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2680">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2681">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2682">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2683">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2684">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2685">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2686">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2687">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2688">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2689">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2690">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2691">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2692">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2693">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2694">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2695">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2696">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2697">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2698">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2699">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2700">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2701">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2702">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2703">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2704">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2705">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2706">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2707">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2708">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2709">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2710">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2711">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2712">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2713">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2714">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2715">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2716">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2717">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2718">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2719">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2720">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2721">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2722">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2723">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2724">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2725">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2726">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2727">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2728">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2729">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2730">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2731">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2732">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2733">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2734">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2735">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2736">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2737">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2738">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2739">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2740">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2741">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2742">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2743">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2744">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2745">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2746">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2747">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2748">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2749">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2750">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2751">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2752">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2753">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2754">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2755">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2756">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2757">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2758">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2759">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2760">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2761">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2762">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2763">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2764">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2765">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2766">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2767">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2768">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2769">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2770">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2771">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2772">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2773">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2774">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2775">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2776">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2777">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2778">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2779">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2780">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2781">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2782">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2783">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2784">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2785">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2786">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2787">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2788">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2789">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2790">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2791">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2792">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2793">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2794">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2795">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2796">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2797">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2798">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2799">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2800">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2801">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2802">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2803">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2804">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2805">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2806">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2807">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2808">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2809">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2810">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2811">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2812">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2813">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2814">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2815">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2816">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2817">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2818">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2819">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2820">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2821">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2822">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2823">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2824">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2825">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2826">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2827">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2828">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2829">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2830">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2831">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2832">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2833">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2834">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2835">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2836">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2837">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2838">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2839">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2840">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2841">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2842">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2843">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2844">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2845">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2846">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2847">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2848">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2849">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2850">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2851">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2852">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2853">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2854">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2855">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2856">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2857">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2858">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2859">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2860">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2861">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2862">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2863">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2864">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2865">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2866">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2867">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2868">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2869">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2870">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2871">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2872">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2873">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2874">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2875">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2876">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2877">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2878">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2879">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2880">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2881">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2882">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2883">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2884">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2885">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2886">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2887">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2888">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2889">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2890">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2891">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2892">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2893">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2894">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2895">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2896">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2897">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2898">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2899">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2900">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2901">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2902">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2903">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2904">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2905">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2906">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2907">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2908">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2909">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2910">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2911">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2912">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2913">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2914">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2915">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2916">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2917">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2918">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2919">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2920">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2921">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2922">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2923">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2924">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2925">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2926">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2927">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2928">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2929">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2930">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2931">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2932">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2933">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2934">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2935">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2936">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2937">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2938">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2939">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2940">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2941">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2942">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2943">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2944">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2945">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2946">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2947">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2948">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2949">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2950">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2951">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2952">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2953">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2954">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2955">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2956">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2957">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2958">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2959">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2960">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2961">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2962">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2963">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2964">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2965">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2966">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2967">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2968">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2969">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2970">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2971">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2972">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2973">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2974">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2975">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2976">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2977">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2978">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2979">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2980">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="2981">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2982">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2983">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2984">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2985">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2986">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2987">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2988">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2989">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2990">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2991">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2992">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2993">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2994">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2995">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2996">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2997">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2998">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="2999">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3000">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3001">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3002">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3003">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3004">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3005">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3006">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3007">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3008">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3009">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3010">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3011">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3012">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3013">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3014">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3015">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3016">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3017">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3018">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3019">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3020">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3021">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3022">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3023">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3024">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3025">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3026">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3027">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3028">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3029">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3030">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3031">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3032">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3033">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3034">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3035">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3036">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3037">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3038">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3039">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3040">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3041">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3042">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3043">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3044">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3045">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3046">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3047">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3048">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3049">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3050">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3051">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3052">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3053">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3054">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3055">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3056">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3057">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3058">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3059">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3060">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3061">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3062">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3063">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3064">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3065">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3066">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3067">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3068">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3069">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3070">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3071">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3072">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3073">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3074">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3075">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3076">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3077">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3078">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3079">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3080">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3081">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3082">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3083">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3084">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3085">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3086">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3087">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3088">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3089">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3090">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3091">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3092">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3093">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3094">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3095">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3096">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3097">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3098">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3099">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3100">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3101">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3102">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3103">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3104">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3105">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3106">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3107">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3108">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3109">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3110">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3111">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3112">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3113">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3114">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3115">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3116">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3117">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3118">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3119">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3120">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3121">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3122">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3123">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3124">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3125">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3126">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3127">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3128">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3129">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3130">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3131">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3132">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3133">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3134">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3135">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3136">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3137">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3138">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3139">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3140">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3141">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3142">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3143">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3144">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3145">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3146">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3147">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3148">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3149">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3150">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3151">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3152">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3153">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3154">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3155">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3156">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3157">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3158">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3159">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3160">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3161">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3162">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3163">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3164">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3165">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3166">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3167">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3168">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3169">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3170">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3171">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3172">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3173">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3174">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3175">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3176">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3177">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3178">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3179">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3180">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3181">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3182">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3183">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3184">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3185">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3186">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3187">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3188">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3189">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3190">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3191">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3192">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3193">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3194">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3195">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3196">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3197">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3198">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3199">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3200">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3201">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3202">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3203">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3204">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3205">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3206">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3207">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3208">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3209">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3210">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3211">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3212">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3213">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3214">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3215">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3216">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3217">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3218">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3219">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3220">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3221">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3222">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3223">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3224">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3225">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3226">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3227">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3228">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3229">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3230">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3231">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3232">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3233">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3234">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3235">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3236">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3237">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3238">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3239">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3240">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3241">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3242">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3243">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3244">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3245">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3246">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3247">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3248">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3249">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3250">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3251">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3252">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3253">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3254">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3255">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3256">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3257">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3258">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3259">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3260">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3261">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3262">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3263">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3264">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3265">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3266">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3267">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3268">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3269">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3270">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3271">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3272">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3273">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3274">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3275">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3276">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3277">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3278">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3279">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3280">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3281">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3282">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3283">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3284">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3285">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3286">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3287">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3288">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3289">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3290">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3291">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3292">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3293">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3294">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3295">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3296">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3297">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3298">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3299">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3300">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3301">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3302">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3303">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3304">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3305">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3306">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3307">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3308">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3309">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3310">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3311">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3312">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3313">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3314">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3315">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3316">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3317">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3318">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3319">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3320">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3321">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3322">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3323">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3324">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3325">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3326">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3327">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3328">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3329">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3330">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3331">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3332">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3333">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3334">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3335">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3336">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3337">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3338">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3339">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3340">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3341">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3342">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3343">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3344">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3345">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3346">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3347">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3348">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3349">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3350">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3351">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3352">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3353">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3354">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3355">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3356">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3357">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3358">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3359">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3360">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3361">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3362">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3363">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3364">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3365">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3366">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3367">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3368">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3369">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3370">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3371">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3372">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3373">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3374">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3375">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3376">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3377">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3378">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3379">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3380">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3381">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3382">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3383">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3384">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3385">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3386">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3387">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3388">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3389">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3390">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3391">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3392">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3393">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3394">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3395">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3396">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3397">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3398">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3399">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3400">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3401">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3402">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3403">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3404">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3405">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3406">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3407">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3408">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3409">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3410">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3411">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3412">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3413">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3414">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3415">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3416">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3417">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3418">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3419">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3420">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3421">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3422">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3423">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3424">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3425">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3426">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3427">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3428">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3429">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3430">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3431">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3432">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3433">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3434">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3435">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3436">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3437">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3438">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3439">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3440">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3441">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3442">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3443">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3444">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3445">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3446">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3447">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3448">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3449">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3450">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3451">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3452">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3453">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3454">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3455">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3456">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3457">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3458">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3459">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3460">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3461">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3462">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3463">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3464">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 			<Items Frame="3465">
 				<Items xsi:type="BoolAttribute" Name="Close" Value="true" />
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3466">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3467">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3468">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3469">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3470">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3471">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3472">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3473">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3474">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3475">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3476">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3477">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3478">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3479">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3480">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3481">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3482">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3483">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3484">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3485">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3486">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3487">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3488">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3489">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3490">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3491">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3492">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3493">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3494">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3495">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3496">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3497">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3498">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3499">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3500">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3501">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3502">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3503">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3504">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3505">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3506">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3507">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3508">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3509">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3510">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3511">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3512">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3513">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3514">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3515">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3516">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3517">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3518">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3519">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3520">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3521">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3522">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3523">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3524">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
+			</Items>
+			<Items Frame="3525">
+				<Items xsi:type="BoolAttribute" Name="Previou_Left" Value="false" />
 			</Items>
 		</ClipAttributes>
 	</ClipFile>

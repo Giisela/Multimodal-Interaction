@@ -121,7 +121,7 @@ namespace AppGui
                     presentationMode = true;
                     break;
 
-                case "PreviousL":
+                case "PreviouL":
                     Console.WriteLine("DO PREVIOUS!");
 
                     if (presentationMode == true)

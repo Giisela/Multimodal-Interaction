@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ProjectFile>
 		<Header>
-			<Date>2019-12-11</Date>
-			<Time>23:00:20.7901769+00:00</Time>
+			<Date>2019-12-12</Date>
+			<Time>00:06:40.6475238+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -26,6 +26,18 @@
 					</Items>
 					<Items>
 						<File>../Kinect Studio/Repository/CropOutGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/Next.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/NextGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/Previous.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/PreviouseGisela_Melhor.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>

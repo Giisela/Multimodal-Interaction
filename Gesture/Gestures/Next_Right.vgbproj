@@ -2,8 +2,8 @@
 <GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ProjectFile>
 		<Header>
-			<Date>2019-12-11</Date>
-			<Time>23:25:16.5663194+00:00</Time>
+			<Date>2019-12-12</Date>
+			<Time>00:31:34.2693550+00:00</Time>
 			<Version>5</Version>
 			<Type>AdaBoostTrigger</Type>
 			<Function>
@@ -22,17 +22,41 @@
 				<Name />
 				<Content>
 					<Items>
+						<File>../Kinect Studio/Repository/CropIn.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/CropInGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/CropOut.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/CropOutGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
 						<File>../Kinect Studio/Repository/Next.vgbclip</File>
 					</Items>
 					<Items>
 						<File>../Kinect Studio/Repository/NextGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/ZoomIn.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/ZoomInGisela_Melhor.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/ZoomOut.vgbclip</File>
+					</Items>
+					<Items>
+						<File>../Kinect Studio/Repository/ZoomOutGisela_Melhor.vgbclip</File>
 					</Items>
 				</Content>
 			</Files>
 		</Project_Data>
 		<UI_State />
 		<Attributes>
-			<Items xsi:type="FloatAttribute" Name="Accuracy Level" Value="0.8" MaxValue="1" MinValue="0" />
+			<Items xsi:type="FloatAttribute" Name="Accuracy Level" Value="0.85" MaxValue="1" MinValue="0" />
 			<Items xsi:type="IntAttribute" Name="Number Weak Classifiers at Runtime" Value="1000" MinValue="0" />
 			<Items xsi:type="BoolAttribute" Name="Filter Results" Value="true" />
 			<Items xsi:type="BoolAttribute" Name="Auto Find Best Filtering Params" Value="true" />

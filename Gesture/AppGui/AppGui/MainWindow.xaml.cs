@@ -169,14 +169,26 @@ namespace AppGui
             tShape = oSlide.Shapes.Title;
             tShape.TextFrame.TextRange.Text = presentationTitle;
             tShape = oSlide.Shapes[2];
-            tShape.TextFrame.TextRange.Text = "Carlos Ribeiro\nGisela Pinto";
+            tShape.TextFrame.TextRange.Text = "Carlos Ribeiro 71945\nGisela Pinto 76397";
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
-            tShape.TextFrame.TextRange.Text = "Tema";
+            tShape.TextFrame.TextRange.Text = "PowerPoint";
             tShape = oSlide.Shapes[2];
-            tShape.TextFrame.TextRange.Text = "Interação com gestos no Powerpoint";
+            tShape.TextFrame.TextRange.Text = "Plataforma para apresentações mais profissionais.\n" +
+                "Serve de guideline numa apresentação e também para partilhar informação acerca de um tema.\n" +
+                "O objetivo do trabalho é facilitar ainda mais a sua utilização.";
 
+
+            oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
+            tShape = oSlide.Shapes.Title;
+            tShape.TextFrame.TextRange.Text = "Cenário";
+            tShape = oSlide.Shapes[2];
+            tShape.TextFrame.TextRange.Text = "O Carlos e a Gisela estão no ínicio de uma apresentação numa conferência internacional e esqueceram-se do ponteiro para apresentar os slides.\n" +
+                "A Gisela coloca-se em frente a um dispositivo e começa a sua apresentação de forma interativa.\n" +
+                "O Carlos vai apresentando e mudando os slides.\n" +
+                "A Gisela encontra-se a apresentar uma figura, e faz zoom para que o público consiga observar melhor.\n" +
+                "No fim fecham a apresentação e tudo correu bem.";
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
@@ -188,8 +200,7 @@ namespace AppGui
                 "Zoom de uma imagem.\n" +
                 "Adicionar tema.\n" +
                 "Abrir modo apresentação.\n" +
-                "Fechar modo apresentação. \n";
-
+                "Fechar modo apresentação.";
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
@@ -197,12 +208,12 @@ namespace AppGui
             tShape = oSlide.Shapes[2];
 
             //Resize image
-            string startupPath = System.IO.Directory.GetCurrentDirectory();
-            //string startupPath = Environment.CurrentDirectory;
-            Console.WriteLine(startupPath);
-
             OpenFileDialog open = new OpenFileDialog();
-            open.FileName = startupPath + @"\kitty_cat.jpg";
+            
+            string workingDirectory = Environment.CurrentDirectory;
+            string parentDirectory = Directory.GetParent(workingDirectory).Parent.FullName;
+            open.FileName = parentDirectory + @"\kitty_cat.jpg";
+            Console.WriteLine(open.FileName);
             FileInfo file = new FileInfo(open.FileName);
             var sizeInBytes = file.Length;
 
@@ -213,7 +224,7 @@ namespace AppGui
 
 
             //to move image just modify left top from the function AddPicture
-            tShape = oSlide.Shapes.AddPicture(@"kitty_cat.jpg", Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 0, 0, imageWidth, imageHeight);
+            tShape = oSlide.Shapes.AddPicture(open.FileName, Microsoft.Office.Core.MsoTriState.msoTrue, Microsoft.Office.Core.MsoTriState.msoTrue, 0, 0, imageWidth, imageHeight);
 
             imgWidth = tShape.Width;
             imgHeight = tShape.Height;

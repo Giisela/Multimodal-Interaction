@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<grammar xml:lang="pt-PT" version="1.0" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+
+  <rule id="rootRule" scope="public">
+    <item repeat="0-1">podes</item>
+    <item repeat="0-1">por favor</item>
+    <one-of>
+      <item>
+        <one-of>
+          <item>começar</item>
+          <item>abrir</item>
+          <item>iniciar</item>
+          <item>quero trabalhar</item>
+          <item>preciso de trabalhar</item>
+        </one-of>
+        <one-of>
+          <item>programa</item>
+          <item>power point</item>
+        </one-of>
+        <tag>out.openPowerPoint="OPEN_POWERPOINT"</tag>
+      </item>
+      <item>
+        <one-of>
+          <item>sim</item>
+          <item>claro</item>
+          <item>afirmativo</item>
+          <item>ser</item>
+          <item>faz</item>
+          <item>ok</item>
+          <item>certo</item>
+        </one-of>
+        <tag>out.confirmation="YES"</tag>
+      </item>
+      <item>
+        <one-of>
+          <item>não</item>
+          <item>obvio que não</item>
+          <item>nem pensar</item>
+          <item>nunca</item>
+          <item>não podes</item>
+          <item>incorreto</item>
+          <item>não disse isso</item>
+        </one-of>
+        <tag>out.confirmation="NO"</tag>
+      </item>
+    </one-of>
+    <item repeat="0-1">por favor</item>
+  </rule>
+
+</grammar>
+
+

@@ -2,7 +2,16 @@
 <grammar xml:lang="pt-PT" version="1.0" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
 
   <rule id="rootRule" scope="public">
-    <item repeat="0-1">podes</item>
+    <item repeat="0-1">
+      <one-of>
+        <item>podes</item>
+        <item>pode</item>
+        <item>quero</item>
+        <item>queres</item>
+        <item>deixa-me</item>
+        <item>deixa</item>
+      </one-of>
+    </item>
     <item repeat="0-1">por favor</item>
     <one-of>
       <item>

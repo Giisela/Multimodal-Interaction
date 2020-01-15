@@ -52,27 +52,29 @@ namespace speechModality
         private LifeCycleEvents lce;
         private MmiCommunication mmic;
         private MmiCommunication mmiC;
+        private bool presentationMode = false;
+
         public SpeechMod(System.Windows.Shapes.Ellipse circle, System.Windows.Threading.Dispatcher dispatcher)
         {
             //init LifeCycleEvents..
             this.circle = circle;
             this.Dispatcher = dispatcher;
 
-            mmiC = new MmiCommunication("localhost", 8000, "User2", "GUI");
-            mmiC.Message += MmiC_Message;
-            mmiC.Start();
+           
         
             // CHANGED FOR FUSION ---------------------------------------
 
             lce = new LifeCycleEvents("ASR", "FUSION","speech-1", "acoustic", "command");
             mmic = new MmiCommunication("localhost",9876,"User1", "ASR");
-            //mmic.Start();
+            mmic.Start();
             // END CHANGED FOR FUSION------------------------------------
           
-
             mmic.Send(lce.NewContextRequest());
 
-            
+            mmiC = new MmiCommunication("localhost", 8000, "User2", "GUI");
+            mmiC.Message += MmiC_Message;
+            mmiC.Start();
+
             //load pt recognizer
             sre = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("pt-PT"));
             gr = new Grammar(Environment.CurrentDirectory + "\\grammarInitial.grxml", "rootRule");
@@ -86,7 +88,7 @@ namespace speechModality
 
             tts = new Tts();
             // introduce assistant
-            Speak("Olá, eu sou o seu assistente do PowerPoint, está pronto para mais um dia?", 12);
+            Speak("Olá, eu sou o seu assistente do PowerPoint, em que lhe posso ser util?", 5);
 
         }
 
@@ -98,13 +100,27 @@ namespace speechModality
             dynamic json = JsonConvert.DeserializeObject(com);
             Console.WriteLine(com);
             Console.WriteLine(json);
-            Console.WriteLine(json.text_to_speek.ToString());
+            Console.WriteLine(json.text_to_speak.ToString());
             switch ((string)json.action.ToString())
             {
                 case "speak":
-                    Speak(json.text_to_speak.ToString(), 2);
+                    Speak((string)json.text_to_speak.ToString(), 5);
+                    break;
+
+                case "presentation":
+                    gr = new Grammar(Environment.CurrentDirectory + "\\grammarPresentation.grxml", "rootRule");
+                    sre.UnloadAllGrammars();
+                    sre.LoadGrammar(gr);
+                    break;
+
+                case "stop_presentation":
+                    gr = new Grammar(Environment.CurrentDirectory + "\\grammarEdition.grxml", "rootRule");
+                    sre.UnloadAllGrammars();
+                    sre.LoadGrammar(gr);
                     break;
             }
+            
+                    
             
         }
 
@@ -172,15 +188,15 @@ namespace speechModality
             
 
             // ignore low confidance levels
-            else if (e.Result.Confidence < 0.3)
+            else if (e.Result.Confidence < 0.5)
             {
                 return;
             }
 
             // if confidence is between 30% and 60%
-            else if (e.Result.Confidence <= 0.5)
+            else if (e.Result.Confidence <= 0.6)
             {
-                Speak("Desculpe, não consegui entender. Pode repetir, por favor.", 2);
+                Speak("Desculpe, não consegui entender. Pode repetir, por favor.", 3);
                 return;
             }
 
@@ -199,16 +215,10 @@ namespace speechModality
     
             
             // if confidence is between 60% and 65%
-            if (e.Result.Confidence <= 0.65)
+            if (e.Result.Confidence <= 0.70)
             {
-                Speak("Não tenho a certeza do que disse. Disse " + e.Result.Text + "?", 2);
-                // ignore while the assistant is speaking
-                if (assistantSpeaking)
-                {
-                    return;
-                }
-
-
+                Speak("Não tenho a certeza do que disse. Disse " + e.Result.Text + "?", 4);
+                
                 foreach (var resultSemantic in e.Result.Semantics)
                 {
                     if (!resultSemantic.Value.Value.Equals("YES"))
@@ -244,6 +254,7 @@ namespace speechModality
                         }
                         confidenceConfirmation = false;
                     }
+                    
                    
                     exNot = lce.ExtensionNotification(e.Result.Audio.StartTime + "", e.Result.Audio.StartTime.Add(e.Result.Audio.Duration) + "", e.Result.Confidence, jsonTmp);
                 }
@@ -275,15 +286,18 @@ namespace speechModality
                 gr = new Grammar(Environment.CurrentDirectory + "\\grammarEdition.grxml", "rootRule");
                 sre.UnloadAllGrammars();
                 sre.LoadGrammar(gr);
+                Speak("Power Point foi aberto!", 2);
             }
             else if (resultSemantic.Value.Value.Equals("CLOSE"))
             {
                 Speak("Deseja fechar o programa?", 2);
                 jsonTmp = json;
                 closeConfirmation = true;
+
             }
             else if (resultSemantic.Value.Value.Equals("START"))
             {
+
                 gr = new Grammar(Environment.CurrentDirectory + "\\grammarPresentation.grxml", "rootRule");
                 sre.UnloadAllGrammars();
                 sre.LoadGrammar(gr);

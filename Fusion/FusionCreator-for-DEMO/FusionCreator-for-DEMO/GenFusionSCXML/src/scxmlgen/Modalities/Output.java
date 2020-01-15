@@ -51,28 +51,35 @@ public enum Output implements IOutput{
     
     
     //Speech
-    NEXT("[slide][NEXT]"),
-    PREVIOUS("[slide][PREVIOUS]"),
+    
     OPEN_POWERPOINT("[openPowerPoint][OPEN_POWERPOINT]"),
     CLOSE_POWERPOINT("[close][CLOSE]"),
     JUMPTO("[slide][JUMP_TO]"),
 
+    NEXT("[3][NextR][slide][NEXT]"),
+    PREVIOUS("[5][PreviouL][slide][PREVIOUS]"),
+    NEXT_PRESENTATION("[3][NextR][slide][NEXT_PRESENTATION]"),
+    PREVIOUS_PRESENTATION("[5][PreviouL][slide][PREVIOUS_PRESENTATION]"),
+    JUMPTO_PRESENTATION("[slide][JUMP_TO_SLIDE_PRESENTATION]"),
+    
     READ_TITLE("[read][TITLE]"),
     READ_TEXT("[read][TEXT]"),
     READ_NOTES("[read][NOTE]"),
+    
+    READ_TITLE_PRESENTATION("[read][TITLE_PRESENTATION]"),
+    READ_TEXT_PRESENTATION("[read][TEXT_PRESENTATION]"),
+    READ_NOTES_PRESENTATION("[read][NOTE_PRESENTATION]"),
     
     //Gestures
     CHANGE_THEME_ONE("[6][ThemaR][theme][1]"),
     CHANGE_THEME_TWO("[6][ThemaR][theme][2]"),
     CHANGE_THEME_THREE("[6][ThemaR][theme][3]"),
-    START_PRESENTATION_CONFIRMATION("[4][Open]"),
-    STOP_PRESENTATION_CONFIRMATION("[0][Close]"),
-    START_PRESENTATION("[4][Open]"),
-    STOP_PRESENTATION("[0][Close]"),
+
+    START_PRESENTATION("[4][Open][presentation][START]"),
+    STOP_PRESENTATION("[0][Close][presentation][STOP_PRESENTATION]"),
 
     
-    NEXT_GESTURES("[3][NextR]"),
-    PREVIOUS_GESTURES("[5][PreviouL]"),
+    
     ZOOMOUT("[8][ZoomO]"),
     ZOOMIN("[7][ZoomI]"),
     CROPOUT("[2][CropO]"),

@@ -35,13 +35,11 @@ public enum SecondMod implements IModality{
     */
     
     
-    CHANGE_THEME("[6][ThemaR]",1500),
+    CHANGE_THEME("[6][ThemaR]",2000),
     START_PRESENTATION("[4][Open]", 1500),
     STOP_PRESENTATION("[0][Close]", 1500),
     NEXT_GESTURES("[3][NextR]",1500),
     PREVIOUS_GESTURES("[5][PreviouL]",1500),
-    NEXT("[NEXT]",1500),
-    PREVIOUS("[PREVIOUS]",1500),
     
     OPEN_POWERPOINT("[OPEN_POWERPOINT]",1500),
     CLOSE_POWERPOINT("[CLOSE]",1500),

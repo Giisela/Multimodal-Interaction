@@ -69,43 +69,44 @@ public class GenFusionSCXML {
     */
     //Single
     fg.Single(Speech.JUMPTO, Output.JUMPTO);
+    fg.Single(Speech.JUMPTO_PRESENTATION, Output.JUMPTO_PRESENTATION);
     
     fg.Single(Speech.READ_TITLE, Output.READ_TITLE);
     fg.Single(Speech.READ_TEXT,  Output.READ_TEXT);
     fg.Single(Speech.READ_NOTES, Output.READ_NOTES);
-
+    
+    fg.Single(Speech.READ_TITLE_PRESENTATION, Output.READ_TITLE_PRESENTATION);
+    fg.Single(Speech.READ_TEXT_PRESENTATION,  Output.READ_TEXT_PRESENTATION);
+    fg.Single(Speech.READ_NOTES_PRESENTATION, Output.READ_NOTES_PRESENTATION);
+    
     fg.Single(SecondMod.ZOOMOUT, Output.ZOOMOUT);
     fg.Single(SecondMod.ZOOMIN, Output.ZOOMIN);
     
     fg.Single(SecondMod.CROPOUT, Output.CROPOUT);
     fg.Single(SecondMod.CROPIN, Output.CROPIN);
     
-    fg.Single(SecondMod.START_PRESENTATION, Output.START_PRESENTATION);
-    fg.Single(SecondMod.STOP_PRESENTATION, Output.STOP_PRESENTATION);
+    fg.Single(Speech.OPEN_POWERPOINT, Output.OPEN_POWERPOINT);
+    fg.Single(Speech.CLOSE_POWERPOINT, Output.CLOSE_POWERPOINT);
+    
+    
     
     // Redundancy
-    fg.Redundancy(Speech.NEXT, SecondMod.NEXT, Output.NEXT);
-    fg.Redundancy(SecondMod.NEXT_GESTURES, Speech.NEXT_GESTURES, Output.NEXT_GESTURES);
-    fg.Redundancy(Speech.PREVIOUS, SecondMod.PREVIOUS, Output.PREVIOUS);
-    fg.Redundancy(SecondMod.PREVIOUS_GESTURES, Speech.PREVIOUS_GESTURES, Output.PREVIOUS_GESTURES);
+    fg.Redundancy(Speech.NEXT, SecondMod.NEXT_GESTURES, Output.NEXT);
+    fg.Redundancy(Speech.NEXT_PRESENTATION, SecondMod.NEXT_GESTURES, Output.NEXT_PRESENTATION);
+    fg.Redundancy(Speech.NEXT_GESTURES, SecondMod.NEXT_GESTURES, Output.NEXT);
+    fg.Redundancy(Speech.PREVIOUS, SecondMod.PREVIOUS_GESTURES, Output.PREVIOUS);
+    fg.Redundancy(Speech.PREVIOUS_PRESENTATION, SecondMod.PREVIOUS_GESTURES, Output.PREVIOUS_PRESENTATION);
+    fg.Redundancy(Speech.PREVIOUS_GESTURES, SecondMod.PREVIOUS_GESTURES, Output.PREVIOUS);
+    fg.Redundancy(Speech.START_PRESENTATION, SecondMod.START_PRESENTATION,  Output.START_PRESENTATION);
+    fg.Redundancy(Speech.STOP_PRESENTATION, SecondMod.STOP_PRESENTATION, Output.STOP_PRESENTATION);
     
-    fg.Redundancy(Speech.OPEN_POWERPOINT, SecondMod.OPEN_POWERPOINT, Output.OPEN_POWERPOINT);
-    fg.Redundancy(Speech.CLOSE_POWERPOINT, SecondMod.CLOSE_POWERPOINT, Output.CLOSE_POWERPOINT);
    
     // Complementarity
     fg.Complementary(Speech.CHANGE_THEME_ONE, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_ONE);
     fg.Complementary(Speech.CHANGE_THEME_TWO, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_TWO);
     fg.Complementary(Speech.CHANGE_THEME_THREE, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_THREE);
     
-    
-    fg.Complementary(SecondMod.START_PRESENTATION, Speech.YES, Output.START_PRESENTATION_CONFIRMATION);
-    fg.Complementary(SecondMod.START_PRESENTATION, Speech.NO, Output.START_PRESENTATION_CONFIRMATION);
-    fg.Complementary(SecondMod.START_PRESENTATION, Speech.START_PRESENTATION, Output.START_PRESENTATION);
 
-    
-    fg.Complementary(SecondMod.STOP_PRESENTATION, Speech.YES, Output.STOP_PRESENTATION_CONFIRMATION);
-    fg.Complementary(SecondMod.STOP_PRESENTATION, Speech.NO, Output.STOP_PRESENTATION_CONFIRMATION);
-    fg.Complementary(SecondMod.STOP_PRESENTATION, Speech.STOP_PRESENTATION, Output.STOP_PRESENTATION);
     
     fg.Build("fusion.scxml");
         

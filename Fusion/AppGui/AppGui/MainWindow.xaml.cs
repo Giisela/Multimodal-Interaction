@@ -41,20 +41,22 @@ namespace AppGui
         {
             InitializeComponent();
 
-            mmiC = new MmiCommunication("localhost",8000, "User1", "GUI");
-            mmiC.Message += MmiC_Message;
-            mmiC.Start();
 
             lce_speechMod = new LifeCycleEvents("ASR", "FUSION", "speech-2", "acoustic", "command");
             mmic_speechMod = new MmiCommunication("localhost", 8000, "User2", "ASR");
             mmic_speechMod.Send(lce_speechMod.NewContextRequest());
 
+            mmiC = new MmiCommunication("localhost",8000, "User1", "GUI");
+            mmiC.Message += MmiC_Message;
+            mmiC.Start();
+
+
 
         }
 
-        private void SendMsg_Tts(string message) 
+        private void SendMsg_Tts(string message, string type) 
         {
-            string json = "{\"action\":\"speak\",\"text_to_speak\":[\"" + message + "\"]}";
+            string json = "{\"action\":\"" + type + "\",\"text_to_speak\":\"" + message + "\"}";
             var exNot = lce_speechMod.ExtensionNotification("", "", 0, json);
             mmic_speechMod.Send(exNot);
         }
@@ -81,7 +83,6 @@ namespace AppGui
             {
                 //TODO: pôr tudo o que está para baixo aqui dentro
                 case "openPowerPoint":
-                    SendMsg_Tts("Power Point foi aberto");
 
                     oPowerPoint = new PowerPoint.Application();
                     oPresentation = oPowerPoint.Presentations.Add();
@@ -95,40 +96,30 @@ namespace AppGui
                     {
                         
                         case "NEXT":
-
-                            if (presentationMode == true)
-                            {
-                                oPresentation.SlideShowWindow.View.Next();
-                            }
-                            else
-                            {
-                                oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex + 1].Select();
-                            }
+                            oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex + 1].Select();
                             break;
-                        case "PREVIOUS":
-                            if (presentationMode == true)
-                            {
-                                oPresentation.SlideShowWindow.View.Previous();
-                            }
-                            else
-                            {
-                                oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex - 1].Select();
 
-                            }
+                        case "NEXT_PRESENTATION":
+                            oPresentation.SlideShowWindow.View.Next();
+                            break;
+
+                        case "PREVIOUS":
+                            oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex - 1].Select();
+                            break;
+
+                        case "PREVIOUS_PRESENTATION":
+                            oPresentation.SlideShowWindow.View.Previous();
                             break;
 
                         case "JUMP_TO":
-                            if (presentationMode == true)
-                            {
-                                oPresentation.SlideShowWindow.View.GotoSlide(Int32.Parse(json.recognized[3].ToString()));
-                            }
-                            else
-                            {
-                                oPresentation.Slides[Int32.Parse(json.recognized[3].ToString())].Select();
-                            }
+                            oPresentation.Slides[Int32.Parse(json.recognized[3].ToString())].Select();
                             break;
 
-                       
+                        case "JUMP_TO_SLIDE_PRESENTATION":
+                            oPresentation.SlideShowWindow.View.GotoSlide(Int32.Parse(json.recognized[3].ToString()));
+                            break;
+
+
                     }
                     break;
 
@@ -136,49 +127,35 @@ namespace AppGui
                     switch ((string)json.recognized[1].ToString())
                     {
                         case "TITLE":
-                            if (presentationMode == true)
-                            {
-                                var title_pres = oPresentation.SlideShowWindow.View.Slide.Shapes.Title.TextFrame.TextRange.Text;
-                                SendMsg_Tts(title_pres);
-                                
-                            }
-                            else
-                            {
+                            var title = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes.Title.TextFrame.TextRange.Text;
+                            SendMsg_Tts(title, "speak");
+                            break;
 
-                                var title = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes.Title.TextFrame.TextRange.Text;
-                                SendMsg_Tts(title);
-                                
-                            }
-                            break;
                         case "TEXT":
-                            if (presentationMode == true)
-                            {
-                                var text_pres = oPresentation.SlideShowWindow.View.Slide.Shapes[2].TextFrame.TextRange.Text;
-                                SendMsg_Tts(text_pres);
-                                
-                            }
-                            else
-                            {
-                                var text = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes[2].TextFrame.TextRange.Text;
-                                SendMsg_Tts(text);
-                                
-                            }
+                            var text = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes[2].TextFrame.TextRange.Text;
+                            SendMsg_Tts(text, "speak");
                             break;
+
                         case "NOTE":
-                            if (presentationMode == true)
-                            {
-                                var note_pres = oPresentation.SlideShowWindow.View.Slide.NotesPage.Shapes[2].TextFrame.TextRange.Text;
-                                SendMsg_Tts(note_pres);
-                                
-                            }
-                            else 
-                            {
-                                var notas = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].NotesPage.Shapes[2].TextFrame.TextRange.Text;
-                                SendMsg_Tts(notas);
-                                
-                            }
+                            var notas = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].NotesPage.Shapes[2].TextFrame.TextRange.Text;
+                            SendMsg_Tts(notas, "speak");
                             break;
-                    
+
+                        case "TITLE_PRESENTATION":
+                            var title_pres = oPresentation.SlideShowWindow.View.Slide.Shapes.Title.TextFrame.TextRange.Text;
+                            SendMsg_Tts(title_pres, "speak");
+                            break;
+
+                        case "TEXT_PRESENTATION":
+                            var text_pres = oPresentation.SlideShowWindow.View.Slide.Shapes[2].TextFrame.TextRange.Text;
+                            SendMsg_Tts(text_pres, "speak");
+                            break;
+
+                        case "NOTE_PRESENTATION":
+                            var note_pres = oPresentation.SlideShowWindow.View.Slide.NotesPage.Shapes[2].TextFrame.TextRange.Text;
+                            SendMsg_Tts(note_pres, "speak");
+                            break;
+
                     }
                     break;
 
@@ -187,7 +164,7 @@ namespace AppGui
                     {
                         case "CropI":
                             Console.WriteLine("DO CROP IN!");
-                            SendMsg_Tts("Crop In encontra-se ativo.");
+                            SendMsg_Tts("Crop In encontra-se ativo.", "speak");
                             tShape.PictureFormat.CropLeft = imgWidth * 20 / 100;
                             tShape.PictureFormat.CropRight = imgWidth * 20 / 100;
                             tShape.PictureFormat.CropBottom = imgHeight * 20 / 100;
@@ -203,7 +180,7 @@ namespace AppGui
                         case "CropO":
                             Console.WriteLine("DO CROP OUT!");
                             //crop Picture
-                            SendMsg_Tts("Crop Out encontra-se ativo.");
+                            SendMsg_Tts("Crop Out encontra-se ativo.", "speak");
                             tShape.PictureFormat.CropLeft = imgWidth * (20 / 100);
                             tShape.PictureFormat.CropRight = imgWidth * (20 / 100);
                             tShape.PictureFormat.CropBottom = imgHeight * (20 / 100);
@@ -255,7 +232,7 @@ namespace AppGui
                             {
 
                                 case "1":
-                                    SendMsg_Tts("Tema 1 encontra-se ativo.");
+                                    SendMsg_Tts("Tema 1 encontra-se ativo.", "speak");
 
                                     string dir = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir))
@@ -271,7 +248,7 @@ namespace AppGui
                                     break;
 
                                 case "2":
-                                    SendMsg_Tts("Tema 2 encontra-se ativo.");
+                                    SendMsg_Tts("Tema 2 encontra-se ativo.", "speak");
 
                                     string dir1 = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir1))
@@ -285,7 +262,7 @@ namespace AppGui
                                     break;
 
                                 case "3":
-                                    SendMsg_Tts("Tema 3 encontra-se ativo.");
+                                    SendMsg_Tts("Tema 3 encontra-se ativo.", "speak");
 
                                     string dir2 = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir2))
@@ -308,7 +285,7 @@ namespace AppGui
                     {
                         case "ZoomI":
                             Console.WriteLine("DO ZOOM IN!");
-                            SendMsg_Tts("O modo Zoom In encontra-se ativo.");
+                            SendMsg_Tts("O modo Zoom In encontra-se ativo.", "speak");
                             tShape.ScaleHeight(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
                             tShape.ScaleWidth(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
 
@@ -322,7 +299,7 @@ namespace AppGui
                     switch ((string)json.recognized[1].ToString())
                     {
                         case "ZoomO":
-                            SendMsg_Tts("O modo Zoom Out encontra-se ativo.");
+                            SendMsg_Tts("O modo Zoom Out encontra-se ativo.", "speak");
                             Console.WriteLine("DO ZOOM OUT!");
                             tShape.ScaleHeight(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
                             tShape.ScaleWidth(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
@@ -336,11 +313,12 @@ namespace AppGui
                     switch ((string)json.recognized[1].ToString())
                     {
                         case "Open":
-                            SendMsg_Tts("O modo apresentação encontra-se ativo.");
-
+                            
                             Console.WriteLine("OPEN Presentation Mode!");
                             oPresentation.SlideShowSettings.Run();
                             presentationMode = true;
+                            SendMsg_Tts("open presentation grammer", "presentation");
+                            SendMsg_Tts("O modo apresentação encontra-se ativo.", "speak");
                             break;
                     }
                     break;
@@ -350,21 +328,23 @@ namespace AppGui
                     {
                         case "Close":
                             Console.WriteLine("DO CLOSE!");
-                            SendMsg_Tts("O modo apresentação foi desativado.");
                             oPresentation.SlideShowWindow.View.Exit();
                             presentationMode = false;
+                            SendMsg_Tts("change to edition grammer", "stop_presentation");
+                            SendMsg_Tts("O modo apresentação foi desativado.", "speak");
                             break;
                     }
                     break;
+
                 case "presentation":
                     switch ((string)json.recognized[0].ToString())
                     {
                         case "START":
-                            SendMsg_Tts("O modo apresentação foi ativado.");
+                            SendMsg_Tts("O modo apresentação foi ativado.", "speak");
                             oPresentation.SlideShowSettings.Run();
                             break;
                         case "STOP_PRESENTATION":
-                            SendMsg_Tts("O modo apresentação foi ativado.");
+                            SendMsg_Tts("O modo apresentação foi ativado.", "speak");
                             oPresentation.SlideShowWindow.View.Exit();
                             break;
                     }
@@ -382,7 +362,7 @@ namespace AppGui
                         }
                     }
                     presentationMode = false;
-                    SendMsg_Tts("Power Point foi fechado");
+                    SendMsg_Tts("Power Point foi fechado", "speak");
 
                     break;
             }

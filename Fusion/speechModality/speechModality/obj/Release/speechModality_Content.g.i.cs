@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("grammaredition.grxml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("grammarpresentation.grxml")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("grammarinitial.grxml")]
 
 

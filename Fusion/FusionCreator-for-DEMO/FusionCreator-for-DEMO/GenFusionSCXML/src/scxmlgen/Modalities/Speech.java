@@ -41,19 +41,27 @@ public enum Speech implements IModality{
     PREVIOUS_GESTURES("[PreviouL]",1500),
     PREVIOUS("[slide][PREVIOUS]",1500),
     JUMPTO("[slide][JUMP_TO]",1500),
+   
+    NEXT_PRESENTATION("[slide][NEXT_PRESENTATION]",1500),
+    PREVIOUS_PRESENTATION("[slide][PREVIOUS_PRESENTATION]",1500),
+    JUMPTO_PRESENTATION("[slide][JUMP_TO_SLIDE_PRESENTATION]",1500),
 
     READ_TITLE("[read][TITLE]",1500),
     READ_TEXT("[read][TEXT]",1500),
     READ_NOTES("[read][NOTE]",1500),
     
+    
+    READ_TITLE_PRESENTATION("[read][TITLE_PRESENTATION]",1500),
+    READ_TEXT_PRESENTATION("[read][TEXT_PRESENTATION]",1500),
+    READ_NOTES_PRESENTATION("[read][NOTE_PRESENTATION]",1500),
+    
     START_PRESENTATION("[presentation][START]", 1500),
     STOP_PRESENTATION("[presentation][STOP_PRESENTATION]", 1500),
+
     
- 
-    
-    CHANGE_THEME_ONE("[theme][1]", 2000),
-    CHANGE_THEME_TWO("[theme][2]", 2000),
-    CHANGE_THEME_THREE("[theme][3]", 2000),
+    CHANGE_THEME_ONE("[theme][1]", 3000),
+    CHANGE_THEME_TWO("[theme][2]", 3000),
+    CHANGE_THEME_THREE("[theme][3]", 3000),
     
     YES("[confirmation][YES]",1500),
     NO("[confirmation][NO]",1500);

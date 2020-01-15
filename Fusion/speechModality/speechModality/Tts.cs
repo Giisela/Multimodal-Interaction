@@ -90,9 +90,9 @@ namespace speechModality {
          * @param text - text to convert
          */
         public void Speak(string text) {
-           while (player.Stream != null) {
-                Console.WriteLine("Waiting...");
-            }
+           //while (player.Stream != null) {
+             //   Console.WriteLine("Waiting...");
+           // }
 
             //create audio stream with speech
             player.Stream = new System.IO.MemoryStream();

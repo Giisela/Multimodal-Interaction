@@ -1,79 +1,29 @@
 ﻿<?xml version="1.0"?>
 <grammar xml:lang="pt-PT" version="1.0" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
   <rule id="rootRule" scope="public">
-    <item repeat="0-1">
-      <one-of>
-        <item>podes</item>
-        <item>pode</item>
-        <item>quero</item>
-        <item>queres</item>
-        <item>deixa-me</item>
-        <item>deixa</item>
-      </one-of>
-    </item>
-    <item repeat="0-1">por favor</item>
     <item>
-      <ruleref uri="#editionMode"/>
-      <tag>out=rules.latest();</tag>
+      Salvador
+      <item repeat="0-1">
+        <one-of>
+          <item>podes</item>
+          <item>pode</item>
+          <item>quero</item>
+          <item>queres</item>
+          <item>deixa-me</item>
+          <item>deixa</item>
+        </one-of>
+      </item>
+      <item repeat="0-1">por favor</item>
+      <item>
+        <ruleref uri="#presentationMode"/>
+        <tag>out=rules.latest();</tag>
+      </item>
+      <item repeat="0-1">por favor</item>
     </item>
-    <item repeat="0-1">por favor</item>
   </rule>
 
-  <rule id="editionMode">
+  <rule id="presentationMode">
     <one-of>
-      <item>
-        <one-of>
-          <item>apresentar</item>
-          <item>apresenta</item>
-          <item>começar</item>
-          <item>começa</item>
-          <item>está na hora</item>
-          <item>temos de iniciar</item>
-          <item>inicia</item>
-          <item>iniciar</item>
-        </one-of>
-        <item repeat="0-1">a apresentação</item>
-        <tag>out.presentation="START"</tag>
-      </item>
-      <item>
-        <one-of>
-          <item>ler</item>
-          <item>lê</item>
-        </one-of>
-        <one-of>
-          <item>
-            <item repeat="0-1">o</item>
-            <one-of>
-              <item>
-                título<tag>out.read = "TITLE"</tag>
-              </item>
-              <item>
-                texto<tag>out.read = "TEXT"</tag>
-              </item>
-            </one-of>
-          </item>
-          <item>
-            <item repeat="0-1">as</item>
-            <item>
-              notas<tag>out.read ="NOTE"</tag>
-            </item>
-          </item>
-        </one-of>
-      </item>
-
-      <item>
-        <item repeat="0-1">
-          <one-of>
-            <item>
-              tema
-              <ruleref uri="#number"/>
-              <tag> out.theme=rules.latest();</tag>
-            </item>
-          </one-of>
-        </item>
-      </item>
-
-      
       <item>
         <one-of>
           <item>
@@ -98,7 +48,7 @@
               <item>segue</item>
               <item>seguinte</item>
             </one-of>
-            <tag>out.slide ="NEXT"</tag>
+            <tag>out.slide ="NEXT_PRESENTATION"</tag>
           </item>
           <item>
             <one-of>
@@ -116,7 +66,7 @@
               <item>vai ali atras</item>
               <item>volta atras</item>
             </one-of>
-            <tag>out.slide ="PREVIOUS"</tag>
+            <tag>out.slide ="PREVIOUS_PRESENTATION"</tag>
           </item>
         </one-of>
         <item repeat="0-1">
@@ -139,7 +89,7 @@
             <item>ir para</item>
             <item>mostra-me o</item>
           </one-of>
-          <tag>out.slide ="JUMP_TO"</tag>
+          <tag>out.slide ="JUMP_TO_SLIDE_PRESENTATION"</tag>
         </item>
         <item repeat="0-1">
           <one-of>
@@ -155,28 +105,34 @@
         </item>
       </item>
 
-
-
       <item>
         <one-of>
-          <item>termina</item>
-          <item>acaba</item>
-          <item>acabar</item>
-          <item>terminar</item>
-          <item>fechar</item>
-          <item>fecha</item>
-          <item>acabou por hoje</item>
-          <item>adeus</item>
-          <item>já chega por hoje</item>
-          <item>chega</item>
+          <item>ler</item>
+          <item>lê</item>
+          <item>apresenta</item>
+          <item>faz apresentação</item>
         </one-of>
-        <item repeat="0-1">o</item>
         <one-of>
-          <item repeat="0-1">Power Point</item>
-          <item repeat="0-1">Programa</item>
-          <item repeat="0-1">Sistema</item>
+          <item>
+            <item repeat="0-1">o</item>
+            <item repeat="0-1">do</item>
+            <one-of>
+              <item>
+                título<tag>out.read = "TITLE_PRESENTATION"</tag>
+              </item>
+              <item>
+                texto<tag>out.read = "TEXT_PRESENTATION"</tag>
+              </item>
+            </one-of>
+          </item>
+          <item>
+            <item repeat="0-1">as</item>
+            <item repeat="0-1">das</item>
+            <item>
+              notas<tag>out.read ="NOTE_PRESENTATION"</tag>
+            </item>
+          </item>
         </one-of>
-        <tag>out.close="CLOSE"</tag>
       </item>
 
       <item>
@@ -196,67 +152,31 @@
       </item>
 
       <item>
-        <item repeat="0-1">
-          <one-of>
-            <item>claro</item>
-            <item>afirmativo</item>
-            <item>obvio</item>
-            <item>faz</item>
-            <item>ok</item>
-            <item>certo</item>
-          </one-of>
-          <item repeat="0-1">que</item>
-        </item>
-        <item repeat="0-1">sim</item>
+        <one-of>
+          <item>sim</item>
+          <item>claro</item>
+          <item>afirmativo</item>
+          <item>ser</item>
+          <item>faz</item>
+          <item>ok</item>
+          <item>certo</item>
+        </one-of>
         <tag>out.confirmation="YES"</tag>
       </item>
 
       <item>
-        <item repeat="0-1">
-          <one-of>
-            <item>obvio</item>
-            <item>nem pensar</item>
-            <item>nunca</item>
-            <item>não podes</item>
-            <item>incorreto</item>
-            <item>não disse isso</item>
-          </one-of>
-          <item repeat="0-1">que</item>
-        </item>
-        <item repeat="0-1">não</item>
+        <one-of>
+          <item>não</item>
+          <item>obvio que não</item>
+          <item>nem pensar</item>
+          <item>nunca</item>
+          <item>não podes</item>
+          <item>incorreto</item>
+          <item>não disse isso</item>
+        </one-of>
         <tag>out.confirmation="NO"</tag>
       </item>
 
-    </one-of>
-  </rule>
-
-
-  <rule id="color">
-    <one-of>
-      <item>
-        amarelo <tag>out="YELLOW"</tag>
-      </item>
-      <item>
-        amarela<tag>out="YELLOW"</tag>
-      </item>
-      <item>
-        vermelho <tag>out="RED"</tag>
-      </item>
-      <item>
-        vermelha <tag>out="RED"</tag>
-      </item>
-      <item>
-        azul <tag>out="BLUE"</tag>
-      </item>
-      <item>
-        verde <tag>out="GREEN"</tag>
-      </item>
-      <item>
-        preto <tag>out="BLACK"</tag>
-      </item>
-      <item>
-        preta <tag>out="BLACK"</tag>
-      </item>
     </one-of>
   </rule>
 

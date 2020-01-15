@@ -64,11 +64,11 @@ public enum Output implements IOutput{
     //Gestures
     CHANGE_THEME_ONE("[6][ThemaR][theme][1]"),
     CHANGE_THEME_TWO("[6][ThemaR][theme][2]"),
-    CHANGE_THEME_THREE("[6][ThemeR][theme][3]"),
-    START_PRESENTATION_CONFIRMATION("[4][Open][confirmation]"),
-    STOP_PRESENTATION_CONFIRMATION("[0][Close][confirmation]"),
-    START_PRESENTATION("[4][Open][presentation][START]"),
-    STOP_PRESENTATION("[0][Close][presentation][STOP_PRESENTATION]"),
+    CHANGE_THEME_THREE("[6][ThemaR][theme][3]"),
+    START_PRESENTATION_CONFIRMATION("[4][Open]"),
+    STOP_PRESENTATION_CONFIRMATION("[0][Close]"),
+    START_PRESENTATION("[4][Open]"),
+    STOP_PRESENTATION("[0][Close]"),
 
     
     NEXT_GESTURES("[3][NextR]"),

@@ -21,7 +21,7 @@ namespace AppGui
     /// </summary>
     public partial class MainWindow : Window
     {
-        TcpClient tcpClient = new TcpClient();
+       
         private PowerPoint._Application oPowerPoint;
         private PowerPoint._Presentation oPresentation;
         private PowerPoint._Slide oSlide;
@@ -35,15 +35,28 @@ namespace AppGui
         string startupPath = System.IO.Directory.GetCurrentDirectory();
 
         private MmiCommunication mmiC;
+        private LifeCycleEvents lce_speechMod;
+        private MmiCommunication mmic_speechMod;
         public MainWindow()
         {
             InitializeComponent();
-
 
             mmiC = new MmiCommunication("localhost",8000, "User1", "GUI");
             mmiC.Message += MmiC_Message;
             mmiC.Start();
 
+            lce_speechMod = new LifeCycleEvents("ASR", "FUSION", "speech-2", "acoustic", "command");
+            mmic_speechMod = new MmiCommunication("localhost", 8000, "User2", "ASR");
+            mmic_speechMod.Send(lce_speechMod.NewContextRequest());
+
+
+        }
+
+        private void SendMsg_Tts(string message) 
+        {
+            string json = "{\"action\":\"speak\",\"text_to_speak\":[\"" + message + "\"]}";
+            var exNot = lce_speechMod.ExtensionNotification("", "", 0, json);
+            mmic_speechMod.Send(exNot);
         }
 
         private void MmiC_Message(object sender, MmiEventArgs e)
@@ -52,7 +65,6 @@ namespace AppGui
             var doc = XDocument.Parse(e.Message);
             var com = doc.Descendants("command").FirstOrDefault().Value;
             dynamic json = JsonConvert.DeserializeObject(com);
-
 
             //json.recognized
             Console.WriteLine(json);
@@ -69,6 +81,8 @@ namespace AppGui
             {
                 //TODO: pôr tudo o que está para baixo aqui dentro
                 case "openPowerPoint":
+                    SendMsg_Tts("Power Point foi aberto");
+
                     oPowerPoint = new PowerPoint.Application();
                     oPresentation = oPowerPoint.Presentations.Add();
                     examplePresentation();
@@ -125,79 +139,43 @@ namespace AppGui
                             if (presentationMode == true)
                             {
                                 var title_pres = oPresentation.SlideShowWindow.View.Slide.Shapes.Title.TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(title_pres), 0, title_pres.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(title_pres);
+                                SendMsg_Tts(title_pres);
+                                
                             }
                             else
                             {
 
                                 var title = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes.Title.TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(title), 0, title.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(title);
+                                SendMsg_Tts(title);
+                                
                             }
                             break;
                         case "TEXT":
                             if (presentationMode == true)
                             {
                                 var text_pres = oPresentation.SlideShowWindow.View.Slide.Shapes[2].TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(text_pres), 0, text_pres.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(text_pres);
+                                SendMsg_Tts(text_pres);
+                                
                             }
                             else
                             {
                                 var text = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].Shapes[2].TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(text), 0, text.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(text);
+                                SendMsg_Tts(text);
+                                
                             }
                             break;
                         case "NOTE":
                             if (presentationMode == true)
                             {
                                 var note_pres = oPresentation.SlideShowWindow.View.Slide.NotesPage.Shapes[2].TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(note_pres), 0, note_pres.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(note_pres);
+                                SendMsg_Tts(note_pres);
+                                
                             }
                             else 
                             {
                                 var notas = oPresentation.Slides[oPowerPoint.ActiveWindow.Selection.SlideRange.SlideIndex].NotesPage.Shapes[2].TextFrame.TextRange.Text;
-                                Socket socket = tcpClient.Client;
-
-                                try
-                                { // sends the text with timeout 10s
-                                    Send(socket, Encoding.UTF8.GetBytes(notas), 0, notas.Length, 10000);
-                                }
-                                catch (Exception ex) { /* ... */ }
-                                //t.Speak(notas);
+                                SendMsg_Tts(notas);
+                                
                             }
                             break;
                     
@@ -209,7 +187,7 @@ namespace AppGui
                     {
                         case "CropI":
                             Console.WriteLine("DO CROP IN!");
-
+                            SendMsg_Tts("Crop In encontra-se ativo.");
                             tShape.PictureFormat.CropLeft = imgWidth * 20 / 100;
                             tShape.PictureFormat.CropRight = imgWidth * 20 / 100;
                             tShape.PictureFormat.CropBottom = imgHeight * 20 / 100;
@@ -225,7 +203,7 @@ namespace AppGui
                         case "CropO":
                             Console.WriteLine("DO CROP OUT!");
                             //crop Picture
-
+                            SendMsg_Tts("Crop Out encontra-se ativo.");
                             tShape.PictureFormat.CropLeft = imgWidth * (20 / 100);
                             tShape.PictureFormat.CropRight = imgWidth * (20 / 100);
                             tShape.PictureFormat.CropBottom = imgHeight * (20 / 100);
@@ -256,7 +234,6 @@ namespace AppGui
                     {
                         case "PreviouL":
                             Console.WriteLine("DO PREVIOUS!");
-
                             if (presentationMode == true)
                             {
                                 oPresentation.SlideShowWindow.View.Previous();
@@ -278,6 +255,7 @@ namespace AppGui
                             {
 
                                 case "1":
+                                    SendMsg_Tts("Tema 1 encontra-se ativo.");
 
                                     string dir = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir))
@@ -293,6 +271,7 @@ namespace AppGui
                                     break;
 
                                 case "2":
+                                    SendMsg_Tts("Tema 2 encontra-se ativo.");
 
                                     string dir1 = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir1))
@@ -306,6 +285,8 @@ namespace AppGui
                                     break;
 
                                 case "3":
+                                    SendMsg_Tts("Tema 3 encontra-se ativo.");
+
                                     string dir2 = @"C:\Program Files (x86)\Microsoft Office\";
                                     if (Directory.Exists(dir2))
                                     {
@@ -327,7 +308,7 @@ namespace AppGui
                     {
                         case "ZoomI":
                             Console.WriteLine("DO ZOOM IN!");
-
+                            SendMsg_Tts("O modo Zoom In encontra-se ativo.");
                             tShape.ScaleHeight(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
                             tShape.ScaleWidth(1.2f, Microsoft.Office.Core.MsoTriState.msoFalse);
 
@@ -341,6 +322,7 @@ namespace AppGui
                     switch ((string)json.recognized[1].ToString())
                     {
                         case "ZoomO":
+                            SendMsg_Tts("O modo Zoom Out encontra-se ativo.");
                             Console.WriteLine("DO ZOOM OUT!");
                             tShape.ScaleHeight(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
                             tShape.ScaleWidth(0.8f, Microsoft.Office.Core.MsoTriState.msoFalse);
@@ -354,6 +336,8 @@ namespace AppGui
                     switch ((string)json.recognized[1].ToString())
                     {
                         case "Open":
+                            SendMsg_Tts("O modo apresentação encontra-se ativo.");
+
                             Console.WriteLine("OPEN Presentation Mode!");
                             oPresentation.SlideShowSettings.Run();
                             presentationMode = true;
@@ -366,11 +350,26 @@ namespace AppGui
                     {
                         case "Close":
                             Console.WriteLine("DO CLOSE!");
+                            SendMsg_Tts("O modo apresentação foi desativado.");
                             oPresentation.SlideShowWindow.View.Exit();
                             presentationMode = false;
                             break;
                     }
                     break;
+                case "presentation":
+                    switch ((string)json.recognized[0].ToString())
+                    {
+                        case "START":
+                            SendMsg_Tts("O modo apresentação foi ativado.");
+                            oPresentation.SlideShowSettings.Run();
+                            break;
+                        case "STOP_PRESENTATION":
+                            SendMsg_Tts("O modo apresentação foi ativado.");
+                            oPresentation.SlideShowWindow.View.Exit();
+                            break;
+                    }
+                    break;
+
 
                 case "close":
                     oPowerPoint.Quit();
@@ -383,6 +382,8 @@ namespace AppGui
                         }
                     }
                     presentationMode = false;
+                    SendMsg_Tts("Power Point foi fechado");
+
                     break;
             }
 
@@ -399,6 +400,8 @@ namespace AppGui
             tShape.TextFrame.TextRange.Text = presentationTitle;
             tShape = oSlide.Shapes[2];
             tShape.TextFrame.TextRange.Text = "Carlos Ribeiro 71945\nGisela Pinto 76397";
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "Falta a minha apresentação, eu sou o Salvador, o assistente pessoal do power point";
+
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
@@ -407,34 +410,46 @@ namespace AppGui
             tShape.TextFrame.TextRange.Text = "Plataforma para apresentações mais profissionais.\n" +
                 "Serve de guideline numa apresentação e também para partilhar informação acerca de um tema.\n" +
                 "O objetivo do trabalho é facilitar ainda mais a sua utilização.";
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "O Power Point é fixe para apresentar trabalhos!";
+
+            oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
+            tShape = oSlide.Shapes.Title;
+            tShape.TextFrame.TextRange.Text = "Comandos Single";
+            tShape = oSlide.Shapes[2];
+            tShape.TextFrame.TextRange.Text = "Para estes escolhemos os comandos que só estavam representados ou em gestos ou em voz. São os seguintes:.\n" +
+                "Abrir/Fechar Power Point (Speech)\n" +
+                "Salta de/para (Speech)\n"+
+                "Zoom In/Out (Gestos)"+
+                "Crop In/Out (Gestos)"+
+                "Ler Titulo, Texto ou Notas (Speech)";
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "O Power Point é fixe para apresentar trabalhos!";
 
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
-            tShape.TextFrame.TextRange.Text = "Cenário";
+            tShape.TextFrame.TextRange.Text = "Comandos Redundancy";
             tShape = oSlide.Shapes[2];
-            tShape.TextFrame.TextRange.Text = "O Carlos e a Gisela estão no ínicio de uma apresentação numa conferência internacional e esqueceram-se do ponteiro para apresentar os slides.\n" +
-                "A Gisela coloca-se em frente a um dispositivo e começa a sua apresentação de forma interativa.\n" +
-                "O Carlos vai apresentando e mudando os slides.\n" +
-                "A Gisela encontra-se a apresentar uma figura, e faz zoom para que o público consiga observar melhor.\n" +
-                "No fim fecham a apresentação e tudo correu bem.";
+            tShape.TextFrame.TextRange.Text = "Avançar Slide\n" +
+                "Recuar Slide.\n" +
+                "Abrir Modo apresentação.\n" +
+                "Fechar Modo Apresentação.\n" ;
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "O Power Point é fixe para apresentar trabalhos!";
+
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
-            tShape.TextFrame.TextRange.Text = "Gestos escolhidos";
+            tShape.TextFrame.TextRange.Text = "Comandos Complementary";
             tShape = oSlide.Shapes[2];
-            tShape.TextFrame.TextRange.Text = "Avançar slide.\n" +
-                "Recuar slide.\n" +
-                "Crop da imagem.\n" +
-                "Zoom de uma imagem.\n" +
-                "Adicionar tema.\n" +
-                "Abrir modo apresentação.\n" +
-                "Fechar modo apresentação.";
+            tShape.TextFrame.TextRange.Text = "Escolhemos para complementariedade o Mudar tema. Inicialmente dizemos tema e o respetivo número e de seguida executamos o gesto correspondente\n";
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "O Power Point é fixe para apresentar trabalhos!";
+
 
             oSlide = oPresentation.Slides.Add(oPresentation.Slides.Count + 1, PowerPoint.PpSlideLayout.ppLayoutText);
             tShape = oSlide.Shapes.Title;
             tShape.TextFrame.TextRange.Text = "Imagem";
             tShape = oSlide.Shapes[2];
+            oSlide.NotesPage.Shapes[2].TextFrame.TextRange.Text = "Kitty cat power!";
+
 
             //Resize image
             OpenFileDialog open = new OpenFileDialog();
@@ -459,31 +474,5 @@ namespace AppGui
             imgHeight = tShape.Height;
         }
 
-        public static void Send(Socket socket, byte[] buffer, int offset, int size, int timeout)
-        {
-            int startTickCount = Environment.TickCount;
-            int sent = 0;  // how many bytes is already sent
-            do
-            {
-                if (Environment.TickCount > startTickCount + timeout)
-                    throw new Exception("Timeout.");
-                try
-                {
-                    sent += socket.Send(buffer, offset + sent, size - sent, SocketFlags.None);
-                }
-                catch (SocketException ex)
-                {
-                    if (ex.SocketErrorCode == SocketError.WouldBlock ||
-                        ex.SocketErrorCode == SocketError.IOPending ||
-                        ex.SocketErrorCode == SocketError.NoBufferSpaceAvailable)
-                    {
-                        // socket buffer is probably full, wait and try again
-                        Thread.Sleep(30);
-                    }
-                    else
-                        throw ex;  // any serious error occurr
-                }
-            } while (sent < size);
-        }
     }
 }

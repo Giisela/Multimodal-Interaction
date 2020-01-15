@@ -11,13 +11,14 @@ using System.Drawing;
 using System.Windows.Threading;
 using System.Windows.Media;
 using System.Net.Sockets;
+using System.Xml.Linq;
+using Newtonsoft.Json;
 
 namespace speechModality
 {
     public class SpeechMod
     {
-        TcpClient tcpClient = new TcpClient();
-
+        
         Boolean closeConfirmation = false;
         Boolean confidenceConfirmation = false;
         Boolean removeSlideConfirmation = false;
@@ -50,22 +51,28 @@ namespace speechModality
 
         private LifeCycleEvents lce;
         private MmiCommunication mmic;
-
+        private MmiCommunication mmiC;
         public SpeechMod(System.Windows.Shapes.Ellipse circle, System.Windows.Threading.Dispatcher dispatcher)
         {
             //init LifeCycleEvents..
             this.circle = circle;
             this.Dispatcher = dispatcher;
 
+            mmiC = new MmiCommunication("localhost", 8000, "User2", "GUI");
+            mmiC.Message += MmiC_Message;
+            mmiC.Start();
+        
             // CHANGED FOR FUSION ---------------------------------------
 
             lce = new LifeCycleEvents("ASR", "FUSION","speech-1", "acoustic", "command");
             mmic = new MmiCommunication("localhost",9876,"User1", "ASR");
-
+            //mmic.Start();
             // END CHANGED FOR FUSION------------------------------------
+          
 
             mmic.Send(lce.NewContextRequest());
 
+            
             //load pt recognizer
             sre = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("pt-PT"));
             gr = new Grammar(Environment.CurrentDirectory + "\\grammarInitial.grxml", "rootRule");
@@ -81,6 +88,24 @@ namespace speechModality
             // introduce assistant
             Speak("Olá, eu sou o seu assistente do PowerPoint, está pronto para mais um dia?", 12);
 
+        }
+
+        private void MmiC_Message(object sender, MmiEventArgs e)
+        {
+            Console.WriteLine(e.Message);
+            var doc = XDocument.Parse(e.Message);
+            var com = doc.Descendants("command").FirstOrDefault().Value;
+            dynamic json = JsonConvert.DeserializeObject(com);
+            Console.WriteLine(com);
+            Console.WriteLine(json);
+            Console.WriteLine(json.text_to_speek.ToString());
+            switch ((string)json.action.ToString())
+            {
+                case "speak":
+                    Speak(json.text_to_speak.ToString(), 2);
+                    break;
+            }
+            
         }
 
         //TTS
@@ -105,7 +130,8 @@ namespace speechModality
 
             Console.WriteLine("Assistant speaking.");
 
-            speakingTimer = new Timer(seconds * 1000);
+            
+            speakingTimer = new Timer(seconds * 2000);
             speakingTimer.Elapsed += OnSpeakingEnded;
             speakingTimer.AutoReset = false;
             speakingTimer.Enabled = true;
@@ -143,17 +169,18 @@ namespace speechModality
             {
                 return;
             }
+            
 
             // ignore low confidance levels
-            if (e.Result.Confidence < 0.2)
+            else if (e.Result.Confidence < 0.3)
             {
                 return;
             }
 
-            // if confidence is between 20% and 50%
-            if (e.Result.Confidence <= 0.5)
+            // if confidence is between 30% and 60%
+            else if (e.Result.Confidence <= 0.5)
             {
-                Speak("Desculpe, não consegui entender. Pode repetir, por favor...", 2);
+                Speak("Desculpe, não consegui entender. Pode repetir, por favor.", 2);
                 return;
             }
 
@@ -171,10 +198,17 @@ namespace speechModality
             // END CHANGED FOR FUSION ---------------------------------------
     
             
-            // if confidence is between 50% and 65%
+            // if confidence is between 60% and 65%
             if (e.Result.Confidence <= 0.65)
             {
                 Speak("Não tenho a certeza do que disse. Disse " + e.Result.Text + "?", 2);
+                // ignore while the assistant is speaking
+                if (assistantSpeaking)
+                {
+                    return;
+                }
+
+
                 foreach (var resultSemantic in e.Result.Semantics)
                 {
                     if (!resultSemantic.Value.Value.Equals("YES"))
@@ -188,15 +222,14 @@ namespace speechModality
             }
             
             var exNot = lce.ExtensionNotification(e.Result.Audio.StartTime + "", e.Result.Audio.StartTime.Add(e.Result.Audio.Duration) + "", e.Result.Confidence, json);
-            
-            
+
+
             foreach (var resultSemantic in e.Result.Semantics)
             {
                 if (resultSemantic.Value.Value.Equals("YES"))
                 {
                     if (closeConfirmation)
                     {
-                        Speak("Adeus, até uma próxima!", 2);
                         gr = new Grammar(Environment.CurrentDirectory + "\\grammarInitial.grxml", "rootRule");
                         sre.UnloadAllGrammars();
                         sre.LoadGrammar(gr);
@@ -211,7 +244,7 @@ namespace speechModality
                         }
                         confidenceConfirmation = false;
                     }
-
+                   
                     exNot = lce.ExtensionNotification(e.Result.Audio.StartTime + "", e.Result.Audio.StartTime.Add(e.Result.Audio.Duration) + "", e.Result.Confidence, jsonTmp);
                 }
                 else if (resultSemantic.Value.Value.Equals("NO"))
@@ -219,27 +252,13 @@ namespace speechModality
                     Speak("Devo ter percebido mal!", 2);
                     cleanAllConfirmations();
                 }
-
-                else if (resultSemantic.Key.Equals("read"))
-                {
-                    Socket socket = tcpClient.Client;
-                    byte[] buffer = new byte[1000000];  // length of the text "Hello world!"
-                    try
-                    { // receive data with timeout 10s
-                        Receive(socket, buffer, 0, buffer.Length, 10000);
-                        string str = Encoding.UTF8.GetString(buffer, 0, buffer.Length);
-                        Speak(str, 3);
-                    }
-                    catch (Exception ex) { /* ... */ }
-
-                }
                 else
                 {
                     cleanAllConfirmations();
                     chooseCommand(resultSemantic, json);
                 }
             }
-            
+
 
             mmic.Send(exNot);
         }
@@ -256,7 +275,6 @@ namespace speechModality
                 gr = new Grammar(Environment.CurrentDirectory + "\\grammarEdition.grxml", "rootRule");
                 sre.UnloadAllGrammars();
                 sre.LoadGrammar(gr);
-
             }
             else if (resultSemantic.Value.Value.Equals("CLOSE"))
             {
@@ -264,34 +282,19 @@ namespace speechModality
                 jsonTmp = json;
                 closeConfirmation = true;
             }
-            
-        }
-
-        public static void Receive(Socket socket, byte[] buffer, int offset, int size, int timeout)
-        {
-            int startTickCount = Environment.TickCount;
-            int received = 0;  // how many bytes is already received
-            do
+            else if (resultSemantic.Value.Value.Equals("START"))
             {
-                if (Environment.TickCount > startTickCount + timeout)
-                    throw new Exception("Timeout.");
-                try
-                {
-                    received += socket.Receive(buffer, offset + received, size - received, SocketFlags.None);
-                }
-                catch (SocketException ex)
-                {
-                    if (ex.SocketErrorCode == SocketError.WouldBlock ||
-                        ex.SocketErrorCode == SocketError.IOPending ||
-                        ex.SocketErrorCode == SocketError.NoBufferSpaceAvailable)
-                    {
-                        // socket buffer is probably empty, wait and try again
-                        System.Threading.Thread.Sleep(30);
-                    }
-                    else
-                        throw ex;  // any serious error occurr
-                }
-            } while (received < size);
+                gr = new Grammar(Environment.CurrentDirectory + "\\grammarPresentation.grxml", "rootRule");
+                sre.UnloadAllGrammars();
+                sre.LoadGrammar(gr);
+            }
+            else if (resultSemantic.Value.Value.Equals("STOP_PRESENTATION"))
+            {
+                gr = new Grammar(Environment.CurrentDirectory + "\\grammarEdition.grxml", "rootRule");
+                sre.UnloadAllGrammars();
+                sre.LoadGrammar(gr);
+            }
+            
         }
     }
 }

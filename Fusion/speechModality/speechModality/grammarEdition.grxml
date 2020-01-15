@@ -23,6 +23,20 @@
     <one-of>
       <item>
         <one-of>
+          <item>apresentar</item>
+          <item>apresenta</item>
+          <item>começar</item>
+          <item>começa</item>
+          <item>está na hora</item>
+          <item>temos de iniciar</item>
+          <item>inicia</item>
+          <item>iniciar</item>
+        </one-of>
+        <item repeat="0-1">a apresentação</item>
+        <tag>out.presentation="START"</tag>
+      </item>
+      <item>
+        <one-of>
           <item>ler</item>
           <item>lê</item>
         </one-of>
@@ -48,56 +62,15 @@
       </item>
 
       <item>
-        <one-of>
-          <item>adicionar</item>
-          <item>adiciona</item>
-          <item>mudar</item>
-          <item>muda</item>
-          <item>alterar</item>
-          <item>altera</item>
-          <item>vamos personalizar</item>
-          <item>personaliza</item>
-          <item>editar</item>
-          <item>edita</item>
-        </one-of>
-        <one-of>
-          <item repeat ="0-1">
-            <item repeat="0-1">
-              <one-of>
-                <item repeat="0-1">uma</item>
-                <item repeat="0-1">a</item>
-              </one-of>
-            </item>
-            cor
-            <one-of>
-              <item repeat="0-1">do</item>
-              <item repeat="0-1">a</item>
-              <item repeat="0-1">ao</item>
-            </one-of>
-            <one-of>
-              <item>
-                título<tag>out.color="TITLE"</tag>
-              </item>
-              <item>
-                texto<tag>out.color="TEXT"</tag>
-              </item>
-            </one-of>
-            <item repeat="0-1">para</item>
+        <item repeat="0-1">
+          <one-of>
             <item>
-              <ruleref uri="#color"/>
-              <tag> out.colorColor=rules.latest();</tag>
+              tema
+              <ruleref uri="#number"/>
+              <tag> out.theme=rules.latest();</tag>
             </item>
-          </item>
-          <item repeat="0-1">
-            <one-of>
-              <item>
-                tema
-                <ruleref uri="#number"/>
-                <tag> out.theme=rules.latest();</tag>
-              </item>
-            </one-of>
-          </item>
-        </one-of>
+          </one-of>
+        </item>
       </item>
 
       
@@ -204,6 +177,22 @@
           <item repeat="0-1">Sistema</item>
         </one-of>
         <tag>out.close="CLOSE"</tag>
+      </item>
+
+      <item>
+        <one-of>
+          <item>termina </item>
+          <item>acaba</item>
+          <item>acabar</item>
+          <item>terminar</item>
+          <item>fechar</item>
+          <item>fecha</item>
+          <item>termina</item>
+          <item>acabou por hoje</item>
+          <item>adeus</item>
+        </one-of>
+        <item repeat="0-1">apresentação</item>
+        <tag>out.presentation="STOP_PRESENTATION"</tag>
       </item>
 
       <item>

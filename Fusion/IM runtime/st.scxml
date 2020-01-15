@@ -44,14 +44,17 @@
 					<commons:var name="newContextResponse" expr="${mmi:newContextResponse(contextId, source, sourceMC, requestId)}" />
 					<send event="mmi:newContextResponse" target="${sourceMC}" targettype="MC" namelist="newContextResponse" />
 
-					<if cond="${_eventdata.sourceMC eq 'ASR'}">
+
+          <if cond="${_eventdata.sourceMC eq 'ASR'}">
 						<assign name="ASR" expr="true" />
 					</if>
-					
-					<if cond="${_eventdata.sourceMC eq 'GESTURES'}">
-						<assign name="GESTURES" expr="true" />
-					</if>
-					
+            
+          
+          <if cond="${_eventdata.sourceMC eq 'GESTURES'}">
+            <assign name="GESTURES" expr="true" />
+          </if>
+          
+
 					
 					<if cond="${_eventdata.sourceMC eq 'KINECT'}">
 						<assign name="KINECT" expr="true" />
@@ -79,22 +82,31 @@
 						<send event="mmi:startRequest" target="TTS" targettype="MC" namelist="startRequest" />
 					</if>
 
+          <!-- EVENT FROM GUI -->
+          <if cond="${_eventdata.sourceMC eq 'GUI'}">
+            <assign name="currAction" expr="command" />
+            <assign name="Action" expr="${_eventdata.data}" />
+            <commons:var name="startRequest" expr="${mmi:newStartRequest(contextId, source, 'ASR', mmi:newRequestId(contextId), currAction, Action)}" />
+            <send event="mmi:startRequest" target="ASR" targettype="MC" namelist="startRequest" />
+          </if>
+
+          
 					<!-- EVENT FROM ASR -->
 					<if cond="${_eventdata.sourceMC eq 'ASR'}">
 						<assign name="currAction" expr="command" />
 						<assign name="Action" expr="${_eventdata.data}" />
 						<commons:var name="startRequest" expr="${mmi:newStartRequest(contextId, source, 'GUI', mmi:newRequestId(contextId), currAction, Action)}" />
 						<send event="mmi:startRequest" target="GUI" targettype="MC" namelist="startRequest" />
-
 					</if>
-				
-					<!-- EVENT FROM GESTURES -->
-					<if cond="${_eventdata.sourceMC eq 'GESTURES'}">
-						<assign name="currAction" expr="command" />
-						<assign name="Action" expr="${_eventdata.data}" />
-						<commons:var name="startRequest" expr="${mmi:newStartRequest(contextId, source, 'GUI', mmi:newRequestId(contextId), currAction, Action)}" />
-						<send event="mmi:startRequest" target="GUI" targettype="MC" namelist="startRequest" />
-					</if>
+          
+           <!-- EVENT FROM GESTURES -->
+          <if cond="${_eventdata.sourceMC eq 'GESTURES'}">
+            <assign name="currAction" expr="command" />
+            <assign name="Action" expr="${_eventdata.data}" />
+            <commons:var name="startRequest" expr="${mmi:newStartRequest(contextId, source, 'GUI', mmi:newRequestId(contextId), currAction, Action)}" />
+            <send event="mmi:startRequest" target="GUI" targettype="MC" namelist="startRequest" />
+          </if>
+					
 					
 					<log label="[Events]" expr="${_eventdata.sourceMC}" />
 					<!-- EVENT FROM FUSION -->

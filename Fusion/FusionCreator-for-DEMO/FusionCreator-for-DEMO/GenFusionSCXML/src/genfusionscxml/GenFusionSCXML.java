@@ -67,6 +67,22 @@ public class GenFusionSCXML {
     fg.Complementary(SecondMod.STOP_PRESENTATION, Speech.NO, Output.STOP_PRESENTATION_NO);
 
     */
+    //Single
+    fg.Single(Speech.JUMPTO, Output.JUMPTO);
+    
+    fg.Single(Speech.READ_TITLE, Output.READ_TITLE);
+    fg.Single(Speech.READ_TEXT,  Output.READ_TEXT);
+    fg.Single(Speech.READ_NOTES, Output.READ_NOTES);
+
+    fg.Single(SecondMod.ZOOMOUT, Output.ZOOMOUT);
+    fg.Single(SecondMod.ZOOMIN, Output.ZOOMIN);
+    
+    fg.Single(SecondMod.CROPOUT, Output.CROPOUT);
+    fg.Single(SecondMod.CROPIN, Output.CROPIN);
+    
+    fg.Single(SecondMod.START_PRESENTATION, Output.START_PRESENTATION);
+    fg.Single(SecondMod.STOP_PRESENTATION, Output.STOP_PRESENTATION);
+    
     // Redundancy
     fg.Redundancy(Speech.NEXT, SecondMod.NEXT, Output.NEXT);
     fg.Redundancy(SecondMod.NEXT_GESTURES, Speech.NEXT_GESTURES, Output.NEXT_GESTURES);
@@ -75,24 +91,11 @@ public class GenFusionSCXML {
     
     fg.Redundancy(Speech.OPEN_POWERPOINT, SecondMod.OPEN_POWERPOINT, Output.OPEN_POWERPOINT);
     fg.Redundancy(Speech.CLOSE_POWERPOINT, SecondMod.CLOSE_POWERPOINT, Output.CLOSE_POWERPOINT);
-    
-    fg.Redundancy(Speech.JUMPTO, SecondMod.JUMPTO, Output.JUMPTO);
-    
-    fg.Redundancy(Speech.READ_TITLE, SecondMod.READ_TITLE, Output.READ_TITLE);
-    fg.Redundancy(Speech.READ_TEXT, SecondMod.READ_TEXT, Output.READ_TEXT);
-    fg.Redundancy(Speech.READ_NOTES,SecondMod.READ_NOTES,Output.READ_NOTES);
-
-
-    fg.Redundancy(Speech.ZOOMOUT, SecondMod.ZOOMOUT, Output.ZOOMOUT);
-    fg.Redundancy(Speech.ZOOMIN, SecondMod.ZOOMIN, Output.ZOOMIN);
-    
-    fg.Redundancy(Speech.CROPOUT,SecondMod.CROPOUT, Output.CROPOUT);
-    fg.Redundancy(Speech.CROPIN, SecondMod.CROPIN, Output.CROPIN);
-    
+   
     // Complementarity
-    fg.Complementary(SecondMod.CHANGE_THEME, Speech.CHANGE_THEME_ONE, Output.CHANGE_THEME_ONE);
-    fg.Complementary(SecondMod.CHANGE_THEME, Speech.CHANGE_THEME_TWO, Output.CHANGE_THEME_TWO);
-    fg.Complementary(SecondMod.CHANGE_THEME, Speech.CHANGE_THEME_THREE, Output.CHANGE_THEME_THREE);
+    fg.Complementary(Speech.CHANGE_THEME_ONE, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_ONE);
+    fg.Complementary(Speech.CHANGE_THEME_TWO, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_TWO);
+    fg.Complementary(Speech.CHANGE_THEME_THREE, SecondMod.CHANGE_THEME, Output.CHANGE_THEME_THREE);
     
     
     fg.Complementary(SecondMod.START_PRESENTATION, Speech.YES, Output.START_PRESENTATION_CONFIRMATION);

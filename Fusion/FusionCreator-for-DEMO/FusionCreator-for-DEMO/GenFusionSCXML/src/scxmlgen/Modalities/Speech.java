@@ -49,17 +49,14 @@ public enum Speech implements IModality{
     START_PRESENTATION("[presentation][START]", 1500),
     STOP_PRESENTATION("[presentation][STOP_PRESENTATION]", 1500),
     
-    ZOOMOUT("[ZoomO]",1500),
-    ZOOMIN("[ZoomI]",1500),
-    CROPOUT("[CropO]",1500),
-    CROPIN("[CropI]",1500),
+ 
     
-    CHANGE_THEME_ONE("[theme][1]", 1500),
-    CHANGE_THEME_TWO("[theme][2]", 1500),
-    CHANGE_THEME_THREE("[theme][3]", 1500),
+    CHANGE_THEME_ONE("[theme][1]", 2000),
+    CHANGE_THEME_TWO("[theme][2]", 2000),
+    CHANGE_THEME_THREE("[theme][3]", 2000),
     
-    YES("[YES]",1500),
-    NO("[NO]",1500);
+    YES("[confirmation][YES]",1500),
+    NO("[confirmation][NO]",1500);
     
     ;
 
